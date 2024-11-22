@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "308488d70274beee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb5af2e561c62d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac948605cc0bf20d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16cd2f9e2dc869dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc68cd0bbbf2db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8873bc3adc3ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79758bc2ad3e8db2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Culture",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ad2d10a7c0d1ec7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5069465637207
+  },
+  "right": {
+    "id": "728c7144f1da9e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "48fb652cf5dd313a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc34a02e931a2cf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "49af4377dfcd2aa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "行銷/Presentation and Speech/Pitch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pitch"
+            }
+          },
+          {
+            "id": "f517e5d363737dfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dca5f700356881dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "行銷/Presentation and Speech/Pitch.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pitch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac948605cc0bf20d",
+  "lastOpenFiles": [
+    "行銷/Attribution Models.md",
+    "職場倫理/core concepts/Culture.md",
+    "行銷/Presentation and Speech/TED Talks/The Power of Vulnerability.md",
+    "領導管理/豐田生產方式.md",
+    "領導管理/Books/Talk like TED.md",
+    "行銷/Presentation and Speech/TED Talks/Listening to Shame.md",
+    "行銷/Presentation and Speech/TED Talks",
+    "創業/Case Studies/Starbucks.md",
+    "創業/Nouns/VC.md",
+    "領導管理/Small Talk.md",
+    "領導管理/Peter Drucker’s management strategies.md",
+    "創業/Business/Y Combinator Cofounder Interview Questions.md",
+    "創業/Value Proposition.md",
+    "創業/Nouns/UVP.md",
+    "行銷/Proposal/SPSE Structure.md",
+    "學習/Problem-Based Learning (PBL).md",
+    "行銷/Proposal/Presenting Stage.md",
+    "創業/POS.md",
+    "創業/POC.md",
+    "創業/POB.md",
+    "行銷/Presentation and Speech/Pitch.md",
+    "領導管理/Negotiation.md",
+    "創業/Nouns/MVP.md",
+    "學習/Learning Sciences.md",
+    "創業/Nouns/Lean Canvas.md",
+    "行銷/Nouns/Interview.md",
+    "領導管理/Prioritization Frameworks/HiPPO.md",
+    "領導管理/Books",
+    "創業/Nouns/Value Proposition.png",
+    "創業/Nouns/Lean Canvas.png",
+    "行銷/Nouns",
+    "創業/Nouns/市場成長.png",
+    "創業/Nouns/創業機會差異.png",
+    "創業/Case Studies/Uber Pitch Deck.png",
+    "創業/Nouns/Team Diversity.png",
+    "創業/Nouns/Business Model Canvas.png",
+    "創業/Nouns",
+    "創業/Case Studies/Airbnb Pitch Deck.png",
+    "改變歷史的生物",
+    "歷史學的空間網絡分析/案例/九服.png",
+    "歷史學的空間網絡分析/案例/天下與內外.png",
+    "歷史學的空間網絡分析/案例",
+    "A",
+    "創業/Business",
+    "創業/Case Studies",
+    "Untitled.canvas",
+    "Untitled 1"
+  ]
+}

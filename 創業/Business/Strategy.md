@@ -1,0 +1,18 @@
+- It's a plan to [[Create Value]]
+- Looking forward, seeing the future
+- Start with "how much value we create"
+- value stick:
+	- willingness to pay - willingness to sell = value
+	- willingness to pay - price = customer delight
+	- compensation - willingness to sell = employee satisfaction
+	- price - compensation = profit / firm margin
+- raise willingness to pay
+	- quality of product or service
+	- product complements
+	- network effects
+		- popularity
+		- ex: everyone is using this
+- how to lower willingness to sell
+	- pay more? shifts value from profit to employee X
+	- make a job a better job
+	- have a better training plan

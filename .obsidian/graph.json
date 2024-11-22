@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:職場倫理  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:心理學  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:領導管理  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:創業  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:行銷  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:學習  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048397
+      }
+    },
+    {
+      "query": "path:歷史學的空間網絡分析  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.23597624083157,
+  "lineSizeMultiplier": 0.981969131080412,
+  "collapse-forces": false,
+  "centerStrength": 0.14255501057463,
+  "repelStrength": 8.9573864914728,
+  "linkStrength": 1,
+  "linkDistance": 222,
+  "scale": 0.1992374892270503,
+  "close": true
+}

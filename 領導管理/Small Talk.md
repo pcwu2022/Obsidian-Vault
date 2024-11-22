@@ -1,0 +1,32 @@
+- go with what happens for a moment
+- be a hackysack
+- make it enjoyable not scary
+- goal: interested, not interesting
+	- be fascinated in what's happening
+- speed to respond != competence
+	- appropriate -> competence
+	- paraphrasing: force you to slow down
+		- validates the other person
+		- validates the content
+		- helps with fidelity
+		- listen to the bottom line
+		- slow your thoughts down to really think
+- "Tell me more", "Give me some more detail"
+- deal with mistakes
+	- Small talk is about connection not perfection
+	- mistakes aren't wrong
+- take people on the journey of my thought X
+	- don't be clock builders
+	- concise and clear
+- structure is a logical connection of your points
+	- structure is key to spontaneity
+	- like jazz, not random notes
+- What, so what, now what?
+	- [[TED Talk Style]]: Structure
+- Getting the conversation started
+	- Notice something in the environment
+	- initiate by curiosity
+- How to end gracefully
+	- White flag approach
+	- signal the other person that you are about to leave
+	- "I need to go for a moment, but before I go, I want to know..."

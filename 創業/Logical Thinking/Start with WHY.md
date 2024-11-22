@@ -1,0 +1,1 @@
+![[Start with WHY.jpg]]

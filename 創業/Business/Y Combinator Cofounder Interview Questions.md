@@ -1,0 +1,37 @@
+- What are your strengths and superpowers (beyond functional expertise)?
+- What are your weaknesses? How do you try to compensate for them?
+- What words would your co-workers use to describe you? What would they want me to know about what it’s like to work with you?
+- How do you deal with conflict? Describe a time you dealt with it well — and a time you didn’t.
+- What’s the worst interpersonal conflict you’ve dealt with? How did you handle it?
+- How do you cope with stress? Depression? Are there any red flags I can help watch out for?
+- How do you arrive at your convictions? What are some key mental models you use to be creative, solve problems, or make decisions?
+- Describe your work style. What techniques do you use for personal productivity?
+- How many hours/week are you willing to work? For how long? What sounds good? What sounds like hell? Do you have different expectations for different phases of the company’s lifespan?
+- What would you want your role to be before we reach product/market fit? What would you want your role to be after we reach product/market fit?
+- How do you see your role changing as the company starts to scale?
+- If your role becomes unavailable (e.g., the board hires a professional CEO), what would you want your new role to be?
+- How would you rank yourself in various areas of responsibility (sales, design, fundraising, etc.) and how passionate are you about each?
+- Where should our startup be based? How do you feel about remote or distributed teams?
+- Is there anything I should know that may materially affect your time or legal status as a founder (e.g., visa, criminal record)?
+- How should founder equity be set? What’s your philosophy on the employee equity pool?
+- What should our approach to employee compensation be, including cash and equity?
+- How much money should we raise? Where do you want this startup to go: bootstrapped small business or “go big or go home”?
+- What traits would you look for in a potential funder (VC or board member)?
+- What does an ideal company exit look like to you?
+- How do you think about the timeframe and pace of success? Are you willing to take the longer path? How long is too long?
+- What number would you sell at? How would that change if you got extra liquidity from your existing positions?
+- What do we do if we find product/market fit, yet none of the founders are excited about that product?
+- Can one co-founder fire another co-founder? Can someone else fire a founder?
+- Why do you want to start a company — in general, and in particular right now?
+- What is success to you? What motivates you personally?
+- What impact do you want to have? Is your startup objective “getting rich” or “changing the world”?
+- What makes you gritty?
+- Who do you admire most in your organization/family/friends and why?
+- What are you most proud of in your work career or life to date?
+- When have you taken a chance when others did not? Or when have you been willing to take an unpopular stance?
+- What are some of the products and companies you love, and why?
+- Is it possible to build a wildly successful company without burning out or damaging other parts of your life (family, health, etc.)?
+- Will this company be your primary activity? Do you have any other time commitments?
+- What is your expected time commitment right now? How do you see that changing in the next 6 months? 2 years?
+- What is your personal runway? Current burn rate? Would you invest your own money (ideally retaining higher equity in return)?
+- What is the minimum monthly salary you need to survive? To be comfortable? To feel like you’ve “made it”?

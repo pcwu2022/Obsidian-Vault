@@ -1,0 +1,2 @@
+軸轉
+A pivot means fundamentally changing the direction of a business when you realize the current products or services aren't meeting the [[Needs]] of the [[Market]]. The main goal of a pivot is to help a company improve revenue or survive in the market, but the way you pivot your business can make all the difference.

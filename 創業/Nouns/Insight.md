@@ -1,0 +1,12 @@
+發現 -> 觀察 -> 洞察
+## How to gain insight
+### Market research
+[[Market]] research is a foundational component of customer insight. It involves systematic gathering, recording and analyzing of data about customers, competitors and the market. This can include surveys, [[Interview]]s and observations, aiming to understand customer preferences, market trends and competitive positioning. Through market research, businesses can identify market gaps, gauge product demand and better understand their target demographic.
+### Customer service data
+Every interaction a customer has with a company's support or service team is a potential goldmine of insights. Complaints, queries, feedback, and even praises provide invaluable data. This data reveals pain points, product issues and areas of satisfaction or dissatisfaction. Regularly analyzing customer service data ensures that businesses stay attuned to their customers' evolving needs and concerns.
+### Focus groups
+Focus groups are small, diverse groups of individuals whose reactions to new products, services or advertising are studied to predict the response from the wider population. They offer qualitative data that can delve deeply into the reasoning behind certain consumer behaviors or preferences. By discussing and probing in a moderated setting, businesses can gain nuanced insights that might not emerge from quantitative methods alone.
+### Purchase history
+A customer's purchase history is a chronicle of their relationship with a [[Brand]] or product. By studying patterns in purchasing behaviors, businesses can identify loyal customers, products that are popular or underperforming, and potential upselling or cross-selling opportunities. This historical data, when analyzed effectively, can predict future buying behaviors, helping businesses to strategize their marketing and sales efforts more efficiently.
+### Product reviews
+Product reviews, whether they are on a company's website, third-party e-commerce sites, or social media platforms, provide direct feedback from users. Positive reviews can highlight strengths and successful features, while negative reviews can pinpoint areas needing improvement. Importantly, reviews are often the first thing potential customers see, making them crucial for both insights and [[brand]] reputation management.

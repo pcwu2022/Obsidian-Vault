@@ -1,0 +1,37 @@
+- 37 seconds: the audience forms the impression
+- credibility: [[Logos Ethos Pathos]]
+	- Resume credibility
+	- Authentic credibility
+- Credibility = knowledge + connection + confidence
+- Two types of knowledge ex: apples
+	- Domain knowledge ex: different kinds of apples
+	- Audience knowledge ex: apple pie / apple phone
+- The speaker has a strong bias
+- Serve the audience first
+	- "What does the audience need to hear from me"
+	- Avoid the curse of knowledge
+		- make assumptions
+		- use acronyms
+	- [[Know Your Audience]]
+		- ex: Make a hoot, don't pollute vs. Make pride for Texas
+	- How do the audience benefit?
+		- So what?
+		- What's in it for the audience
+		- Goal first
+	- Never lose your audience
+	- Audience Expectations
+	- Areas of Concern
+- Connect with your audience
+	- Reveal Relevance
+		- Don't just talk at the audience
+		- ex: big data might not be meaningful to the audience
+		- [[Personalizing Your Message]]
+	- Advance Analogies
+		- [[Creating a Hook]]
+	- Invoke Imaginations
+		- Don't go through bullet points, because bullets kill
+		- Imagine... makes the audience thinking
+		- People lean forward when the speaker invokes imaginations
+	- Connect people with inclusive language
+		- "Use You"
+		- cf. "The audience should consider...", "One must..."
