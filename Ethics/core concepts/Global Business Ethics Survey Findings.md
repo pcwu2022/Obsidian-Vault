@@ -1,0 +1,6 @@
+- Employees continue to face exceptionally high levels of pressure to compromise workplace standards or the law.  
+- Workplace misconduct is at an all-time high
+- Globally, reporting of observed misconduct is at a record high
+- Retaliation against employees who report misconduct continues to occur at unacceptable rate
+- Few employees say they work in a strong ethical [[Culture]]
+- Businesses are not taking the steps that are proven to significantly reduce their risk

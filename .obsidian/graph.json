@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,52 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:職場倫理  ",
+      "query": "path:Learning  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:心理學  ",
+      "query": "path:Ethics  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:領導管理  ",
+      "query": "path:Psychology  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 11657298
       }
     },
     {
-      "query": "path:創業  ",
+      "query": "Path:Startup  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 5431473
       }
     },
     {
-      "query": "path:行銷  ",
+      "query": "Path:Biology  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 5419488
       }
     },
     {
-      "query": "path:學習  ",
+      "query": "Path:History  ",
       "color": {
         "a": 1,
-        "rgb": 14048397
-      }
-    },
-    {
-      "query": "path:歷史學的空間網絡分析  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
+        "rgb": 5395168
       }
     }
   ],
@@ -67,6 +60,6 @@
   "repelStrength": 8.9573864914728,
   "linkStrength": 1,
   "linkDistance": 222,
-  "scale": 0.1992374892270503,
+  "scale": 0.15744156030862178,
   "close": true
 }

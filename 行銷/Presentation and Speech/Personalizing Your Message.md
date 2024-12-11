@@ -1,9 +1,0 @@
-- 聽眾才是明星
-- 要跟聽眾有關係
-- 產生共鳴
-- 要個人化 Personalize Customize
-- 對方想要甚麼
-- 包裝成有共感的東西
-- 站在對方的立場
-- 對方為甚麼不欣賞你的 idea 因為那是你的 idea 不是對方的 idea
-- Ex: 130,000 Taipei 101 => Personalized for the audience
