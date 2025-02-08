@@ -1,26 +1,24 @@
 ![[Lean Canvas.png]]
 
-The **Lean Canvas** is a simplified, one-page business plan template designed for startups and entrepreneurs. It was adapted from the [[Business Model Canvas]] by Ash Maurya to focus more on early-stage startups and their key assumptions. The goal is to quickly and efficiently document and validate a business idea without needing a full, formal business plan.
-
+The **Lean Canvas** was adapted from the [[Business Model Canvas]] to focus more on early-stage startups and their key assumptions. 
 ### Key Sections of the Lean Canvas
 
 1. **Problem**:
-   - Identify the top 1–3 problems that your target customers face.
+   - [[What's Your Problem|Identify the top 1–3 problems]] that your target customers face.
    - You want to validate whether these problems are real and significant enough to build a business around.
-   - [[What's Your Problem]]
-   - Existing Solutions:  客戶不在乎有甚麼 SPEC，而是[[Pain Point]]有沒有夠痛，有沒有其他替代方案？
+   - 客戶不在乎有甚麼 SPEC，而是[[Pain Point|痛點]]有沒有夠痛，有沒有其他替代方案？
 
 2. **Customer Segments**:
-   - Who are the different customer groups you are targeting? 
+   - Who are the different [[Segmentation|customer groups]] you are targeting? 
    - These could include different demographics, job roles, or behavioral segments.
    - This section also includes the **early adopters** — the first people who will use your product or service.
 	- Early Adopters: 要改變消費者的使用習慣是很困難的
 	- [[Technology Adoption Lifecycle]]
 
-3. **Unique Value Proposition ([[UVP]])**:
+3. **[[UVP|Unique Value Proposition]]:
    - A clear, concise statement that explains what differentiates your product or service from competitors.
-   - It answers the question, “Why should customers choose you over others?”
-   - The [[UVP]] is crucial for grabbing attention and making your offering compelling.
+   - The UVP is crucial for grabbing attention and making your offering compelling.
+   - “Why should customers choose you over others?”
 
 4. **Solution**:
    - Outline the top 1–3 features or solutions that directly address the identified problems.
@@ -47,11 +45,3 @@ The **Lean Canvas** is a simplified, one-page business plan template designed fo
 9. **[[Channels]]**:
    - Identify how you will reach your customer segments.
    - These could include both online and offline [[Channels]] such as social media, direct sales, [[SEO]], email marketing, partnerships, etc.
-
-### Why Use a Lean Canvas?
-
-- **Speed**: It’s quick to fill out and allows you to iterate rapidly on business ideas.
-- **Focus**: The canvas focuses on the essential elements of a [[Startup]], helping entrepreneurs think about the critical assumptions and risks.
-- **Clarity**: It’s visually simple and easy to understand, making it useful for pitching ideas to investors or team members.
-- **Flexibility**: As your business evolves, the Lean Canvas can be easily updated and refined.
-

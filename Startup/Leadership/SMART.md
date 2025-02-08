@@ -56,7 +56,7 @@ SMART goals should have time-related parameters built in, so everybody knows how
 
 When Jane incorporates those dates, her SMART goal is complete.
 
-TIME-BOUND
+### TIME-BOUND
 Grow the number of monthly users of Techfirm’s mobile app by 1,000 within Q1 of 2022. This will be accomplished by optimizing our app-store listing and creating targeted social media campaigns, which will begin running in February 2022, on three social media platforms: Facebook, Twitter, and Instagram. Since mobile is our primary point of conversion for paid-customer signups, growing our app usage will ultimately increase sales.
 
 Knowing how to set goals using the SMART framework can help you succeed in setting and attaining goals, no matter how large or small.

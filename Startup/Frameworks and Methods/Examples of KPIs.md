@@ -17,7 +17,7 @@ Customer-related KPIs show how well a company is performing from the standpoint 
 It’s not uncommon for those working in the customer service industry to see the following examples of KPIs.
 
 - **Customer satisfaction score:** A quick way to see how happy people are with what you sell.
-- **Net promoter score:** Tells you if your customers like your product enough to tell their friends.
+- **[[NPS | Net promoter score]]:** Tells you if your customers like your product enough to tell their friends.
 - **Customer [[Retention]] rate:** Measures how well you're keeping your customers over time.
     
 ### Process KPI examples

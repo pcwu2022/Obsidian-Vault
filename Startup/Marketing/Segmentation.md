@@ -9,18 +9,18 @@
 ## Case Studies
 
 ### 1. **Coca-Cola**
-| **Segmentation Type**   | **Strategy**                                                                                                                                           | **Result**                                                       |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Demographic             | Targets different age groups, income levels, and health-conscious consumers (e.g., Diet Coke, Coca-Cola Zero).                                           | Expanded its market reach to a broad range of customers globally. |
-| Psychographic           | Focuses on customers’ lifestyles and values, e.g., marketing Coca-Cola as a symbol of fun and happiness.                                                 | Builds a strong emotional connection with diverse consumer groups. |
-| Behavioral              | Offers targeted promotions based on purchasing habits (e.g., seasonal campaigns, special editions).                                                     | Maintains customer loyalty and increased product variety.        |
+| **Segmentation Type** | **Strategy**                                                                                                   | **Result**                                                         |
+| --------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Demographic           | Targets different age groups, income levels, and health-conscious consumers (e.g., Diet Coke, Coca-Cola Zero). | Expanded its market reach to a broad range of customers globally.  |
+| Psychographic         | Focuses on customers’ lifestyles and values, e.g., marketing Coca-Cola as a symbol of fun and happiness.       | Builds a strong emotional connection with diverse consumer groups. |
+| Behavioral            | Offers targeted promotions based on purchasing habits (e.g., seasonal campaigns, special editions).            | Maintains customer loyalty and increased product variety.          |
 
 ### 2. **Amazon**
-| **Segmentation Type**   | **Strategy**                                                                                                                                           | **Result**                                                       |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Behavioral              | Uses customer purchase history to recommend products. Provides personalized suggestions for each user based on browsing and past purchases.           | Increased sales and customer loyalty through tailored experiences. |
-| Demographic             | Segments by location (global regions) and income (Amazon Prime for frequent shoppers).                                                                 | Higher conversion rates with targeted ads and region-specific products. |
-| Psychographic           | Targets different interests and lifestyles through Amazon Prime's video streaming, music, and reading content.                                          | Enhanced customer engagement, offering value across different needs. |
+| **Segmentation Type** | **Strategy**                                                                                                                                | **Result**                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Behavioral            | Uses customer purchase history to recommend products. Provides personalized suggestions for each user based on browsing and past purchases. | Increased sales and customer loyalty through tailored experiences.      |
+| Demographic           | Segments by location (global regions) and income (Amazon Prime for frequent shoppers).                                                      | Higher conversion rates with targeted ads and region-specific products. |
+| Psychographic         | Targets different interests and lifestyles through Amazon Prime's video streaming, music, and reading content.                              | Enhanced customer engagement, offering value across different needs.    |
 
 ### 3. **Nike**
 | **Segmentation Type**   | **Strategy**                                                                                                                                           | **Result**                                                       |

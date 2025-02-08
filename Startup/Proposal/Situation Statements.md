@@ -1,6 +1,6 @@
 Importance, Situation Analysis & Problem Statements
 - [[Opening]] & importance Statistics
-	- Importance: Higher productivity & creativity
+	- Importance: Higher productivity & [[creativity]]
 - Situation 1: Background
 	- Safety: Security (Berkeley, Austin -- carpool)
 	- 別人的方法，他們怎麼解決問題

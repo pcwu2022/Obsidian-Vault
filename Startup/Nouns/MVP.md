@@ -1,56 +1,92 @@
-Minimum Viable Product
-重要性：做一個產品的成本跟做一百萬個成本一樣
+An MVP is the simplest version of a product that allows a team to test key assumptions, gather feedback, and validate hypotheses with minimal effort and cost. It helps entrepreneurs start the process of learning as quickly as possible.
 
-How to create the MVP?
-- softr
-- kickstarter
-- forms
-### What is a Minimum Viable Product?
-A minimum viable product, or MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
+### Key Design Principles of an MVP
 
-Because the agile methodology is built on validating and iterating products based on user input, the MVP plays a central role in agile development.
+1. **Solve a Core Problem**: Focus on addressing the most critical pain point of the target audience. Always ask "what if they don’t care about the design in the same way we do?"
+2. **Iterative Development**: Start small and add features based on user feedback and validated learning.
+3. **Speed over Perfection**: Set aside our traditional professional standards. First products aren’t meant to be perfect. Early adopters are suspicious of something that’s too polished.
+4. **Simplify Features**: Include only the essential features needed to test the core value hypothesis. Remove any feature, process, or effort that does not contribute directly to the learning you seek.
+5. **Targeted Audience**: Design for early adopters who provide valuable insights.
+6. **Test Assumptions**: Use the MVP to validate or invalidate hypotheses about market fit, usability, or demand.
+7. **Data-Driven**: Focus on collecting actionable feedback and metrics to inform the next steps.
+8. **Complexity**: It could be as simple as an ad, or a complex working prototype. It just depends on what assumption you need to test.
 
-### What is the Purpose of a Minimum Viable Product?
-Eric Ries, who introduced the concept of the minimum viable product as part of his [[Lean Startup]] methodology, describes the purpose of an MVP this way: It is the version of a new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+### Famous Examples of MVPs
 
-A company might choose to develop and release a minimum viable product because its product team wants to:
+1. **Dropbox**: An explainer video to gauge interest before coding.
+2. **Airbnb**: A simple website listing their own apartment for rent.
+3. **Twitter**: A basic SMS-based platform tested at a company hackathon.
+4. **Instagram**: Pivoted from Burbn to a photo-sharing app with limited features.
+5. **Zappos**: Sold shoes online by listing store inventory, validating demand.
+6. **Amazon**: Began as an online bookstore with a basic website.
+7. **Buffer**: A landing page explaining the concept of scheduled tweets.
+8. **Facebook**: Focused initially on Harvard students to test social network demand.
+9. **Uber**: Launched in San Francisco with a simple ride-hailing app.
+10. **Spotify**: Introduced streaming music with a limited library to test demand.
+11. **Foursquare**: Started with check-ins and gamified badges, later expanding features.
+12. **LinkedIn**: Offered simple profile creation and networking tools before adding features.
+### Types of MVPs
 
-- Release a product to the market as quickly as possible
-- Test an idea with real users before committing a large [[Budget]] to the product’s full development
-- Learn what resonates with the company’s target market and what doesn’t
-- In addition to allowing your company to validate an idea for a product without building the entire product, an MVP can also help minimize the time and resources you might otherwise commit to building a product that won’t succeed.
+1. **Landing Page MVP**
+    - **Description**: A webpage describing the product value to gauge interest.
+    - **Pros**: Fast, cost-effective, based on real behavior.
+    - **Cons**: No functionality testing, risk of overselling.
+2. **Email MVP**
+    - **Description**: Send product info directly to users via email.
+    - **Pros**: Segmented feedback, quick validation.
+    - **Cons**: No behavioral insights, emails can be ignored.
+3. **Fake Door MVP**
+    - **Description**: Add a placeholder (e.g., button) to measure interest in a feature.
+    - **Pros**: Deeper insights, uses existing UI.
+    - **Cons**: May frustrate users, lacks behavioral insights.
+4. **Low-Fidelity Prototype**
+    - **Description**: Simple sketches, wireframes, or basic mockups.
+    - **Pros**: Great for early feedback, minimal development.
+    - **Cons**: Requires effort and further testing.
+5. **Demo Video MVP**
+    - **Description**: Short video explaining the product.
+    - **Pros**: Engaging, reusable.
+    - **Cons**: Lacks hands-on experience.
+6. **Crowdfunding MVP**
+    - **Description**: Use platforms like Kickstarter to validate demand.
+    - **Pros**: Pre-sells the idea, raises funds.
+    - **Cons**: High expectations, risk of non-delivery.
+7. **Single Feature MVP**
+    - **Description**: Focus on one core functionality.
+    - **Pros**: Simplifies feedback, reduces feature risks.
+    - **Cons**: Requires focused team efforts.
+8. **Minimum Lovable Product**
+    - **Description**: Ensures customers love the product beyond basic functionality.
+    - **Pros**: Builds loyalty, competitive advantage.
+    - **Cons**: Risk of overextending.
+9. **High-Fidelity Prototype**
+    - **Description**: Detailed mockup providing a realistic product feel.
+    - **Pros**: Engages users, gathers usability feedback.
+    - **Cons**: May not reflect actual functionality.
+10. **Concierge MVP**
+	- **Description**: Users experience personalized interaction, manually supported.
+	- **Pros**: Validates effectiveness.
+	- **Cons**: Not scalable or realistic long-term.
+11. **Wizard of Oz MVP**
+	- **Description**: Simulates a functioning product with manual backend operations.
+	- **Pros**: Tests complex ideas with minimal dev work.
+	- **Cons**: Requires setup, not suitable for all tech.
+12. **Piecemeal MVP**
+	- **Description**: Combines existing tools to deliver a product experience.
+	- **Pros**: Fast, resource-efficient.
+	- **Cons**: User friction, complex assembly.
 
-### How Do You Define Your Minimum Viable Product?
-How do you develop a minimum viable product, and how will your team know when you have an MVP ready for launch? Here are a few strategic steps to take.
-
-1. Make sure your planned MVP aligns with your business objectives.
-	Before weighing which features to build, the first step in developing your MVP is to make sure the product will align with your team’s or your company’s strategic goals.
-	
-	What are those goals? Are you working toward a revenue number in the coming six months? Do you have limited resources? These questions might affect whether now is even the time to start developing a new MVP.
-	
-	Also, ask what purpose this minimum viable product will serve. For example, will it attract new users in a market adjacent to the market for your existing products? If that is one of your current business objectives, then this MVP plan might be strategically viable.
-	
-	But if your company’s current priority is to continue focusing on your core markets, you might need to shelve this idea and focus instead, perhaps, on an MVP designed to offer new functionality for your existing customers.
-
-2. Start identifying specific problems you want to solve or improvements you want to enable for your user [[Persona]].
-	Now that you’ve determined your MVP plans align with your business objectives, you can start thinking through the specific solutions you want your product to offer users. These solutions, which you might write up in user stories, epics, or features, do not represent the product’s overall vision—only subsets of that vision. Remember, you can develop only a small amount of functionality for your MVP.
-	
-	You will need to be strategic in deciding which limited functionality to include in your MVP. You can base these decisions on several factors, including:
-	
-	- User research
-	- Competitive analysis
-	- How quickly you’ll be able to iterate on certain types of functionality when you receive user feedback
-	The relative costs to implement the various user stories or epics
-3. Translate your MVP functionality into a plan of development action.
-	Now that you’ve weighed the strategic elements above and settled on the limited functionality you want for your MVP, it’s time to translate this into an action plan for development.
-	
-	Note: It’s essential to keep in mind the V in MVP—the product must be viable. That means it must allow your customers to complete an entire task or project and provide a high-quality user experience. An MVP cannot be a user interface with many half-built tools and features. It must be a working product that your company should be able to sell.
-
-### What are Examples of the Minimum Viable Product?
-If you’re wondering what this would look like in practice, let’s review how a couple of familiar brands launched successful MVPs.
-
-**Airbnb**
-With no money to build a business, the founders of [[Airbnb]] used their own apartment to validate their idea to create a market offering short-term, peer-to-peer rental housing online. They created a minimalist website, published photos and other details about their property, and found several paying guests almost immediately.
-
-**Foursquare**
-The location-based social network Foursquare started as just a one-feature MVP, offering only check-ins and gamification rewards. The Foursquare development team began adding recommendations, city guides, and other features until they had validated the idea with an eager and growing user base.
+|**MVP Type**|**Description**|**Pros**|**Cons**|
+|---|---|---|---|
+|**Landing Page MVP**|Webpage describing product value to gauge interest.|Fast, cost-effective, based on real behavior.|No functionality testing, risk of overselling.|
+|**Email MVP**|Send product info to users via email.|Segmented feedback, quick validation.|No behavioral insights, emails can be ignored.|
+|**Fake Door MVP**|Placeholder (e.g., button) to measure feature interest.|Deeper insights, uses existing UI.|May frustrate users, lacks behavioral insights.|
+|**Low-Fidelity Prototype**|Simple sketches, wireframes, or basic mockups.|Great for early feedback, minimal development.|Requires effort and further testing.|
+|**Demo Video MVP**|Short video explaining the product.|Engaging, reusable.|Lacks hands-on experience.|
+|**Crowdfunding MVP**|Use platforms like Kickstarter to validate demand.|Pre-sells the idea, raises funds.|High expectations, risk of non-delivery.|
+|**Single Feature MVP**|Focus on one core functionality.|Simplifies feedback, reduces feature risks.|Requires focused team efforts.|
+|**Minimum Lovable Product**|Ensures customers love the product beyond basic functionality.|Builds loyalty, competitive advantage.|Risk of overextending.|
+|**High-Fidelity Prototype**|Detailed mockup providing a realistic product feel.|Engages users, gathers usability feedback.|May not reflect actual functionality.|
+|**Concierge MVP**|Users experience personalized interaction, manually supported.|Validates effectiveness.|Not scalable or realistic long-term.|
+|**Wizard of Oz MVP**|Simulates a functioning product with manual backend operations.|Tests complex ideas with minimal dev work.|Requires setup, not suitable for all tech.|
+|**Piecemeal MVP**|Combines existing tools to deliver a product experience.|Fast, resource-efficient.|User friction, complex assembly.|

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "962cf11347396fdc",
+        "id": "7561b0e6ba39b46a",
         "type": "tabs",
         "children": [
           {
-            "id": "7ecdc0589e771c54",
+            "id": "945d558ed15342b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Startup/Startup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Startup"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communication",
+                "query": "\"unique value proposition\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5069465637207
+    "width": 200
   },
   "right": {
     "id": "728c7144f1da9e4d",
@@ -93,17 +90,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startup/Startup.md",
+                "file": "Startup/Presentation and Speech/Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Startup"
+              "title": "Backlinks for Storytelling"
             }
           },
           {
@@ -112,20 +109,44 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startup/Startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Startup"
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "55dd58d7ca2f94e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d74d873f6672cf1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Startup/Nouns/Value Proposition.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Value Proposition"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
-    "collapsed": true
+    "width": 215.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -137,54 +158,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ecdc0589e771c54",
+  "active": "945d558ed15342b2",
   "lastOpenFiles": [
-    "Startup/Frameworks and Methods/PESTLE Analysis.md",
-    "Startup/Startup.md",
-    "Startup/Frameworks and Methods/Porter’s Five Forces.md",
-    "Startup/Nouns/Value Proposition.md",
-    "Startup/Frameworks and Methods/Go-to-Market.md",
+    "Startup/Presentation and Speech/TED Talks/The Power of Vulnerability.md",
+    "Startup/Presentation and Speech/TED Talks/Listening to Shame.md",
+    "Startup/Presentation and Speech/The Power of Body Language.md",
+    "Startup/Presentation and Speech/TED Talk Style.md",
+    "Startup/Presentation and Speech/Storytelling.md",
+    "Startup/Presentation and Speech/Steve Jobs Style.md",
+    "Startup/Presentation and Speech/Speech Structure.md",
+    "Startup/Presentation and Speech/Pitch.md",
+    "Startup/Presentation and Speech/Personalizing Your Message.md",
+    "Startup/Presentation and Speech/Pasted image 20240928212641.png",
+    "Startup/Presentation and Speech/Opening.md",
+    "Startup/Presentation and Speech/McKinsey Style Presentation.md",
+    "Startup/Presentation and Speech/Matt Abrahams - Think Fast, Talk Smart.md",
+    "Startup/Presentation and Speech/Matt Abrahams - Compelling and Confident.md",
+    "Startup/Presentation and Speech/Logos Ethos Pathos.md",
+    "Startup/Presentation and Speech/Literary Devices.md",
     "Startup/Presentation and Speech/Know Your Audience.md",
+    "Startup/Presentation and Speech/Know your audience.png",
     "Startup/Presentation and Speech/Chunking.md",
     "Startup/Presentation and Speech/Body Language.md",
-    "Startup/Presentation and Speech/Anxiety on Communication.md",
-    "Startup/Books/Surrounded by Idiots/Surrounded By Idiots.md",
-    "Startup/Nouns/第一性原理.md",
-    "Startup/Nouns/Values.md",
-    "Startup/Nouns/Value Proposition.png",
-    "Startup/Nouns/Unfair Advantage.md",
-    "Startup/Nouns/Traction.md",
-    "Startup/Nouns/Team Diversity.png",
-    "Startup/Nouns/Strategy.md",
-    "Startup/Nouns/Seed Funding.md",
-    "Startup/Nouns/Reality Distortion Field.md",
-    "Startup/Nouns/Prototype.md",
-    "Startup/Nouns/Product Development Model.md",
-    "Startup/Nouns/Pricing.md",
-    "Startup/Nouns/POS.md",
-    "Startup/Nouns/POC.md",
-    "Startup/Nouns/POB.md",
-    "Startup/Nouns/PMF.png",
-    "Startup/Nouns/Pivoting.md",
-    "Startup/Nouns/Pain Point.md",
-    "Startup/Nouns/OKR.md",
+    "Startup/Communication/Anxiety on Communication.md",
+    "Startup/Presentation and Speech/15 things on your pitch deck.md",
+    "Startup/Books/Atomic Habits/Identity-Based Habits.md",
+    "Startup/Books/Lean Startup/Build-Measure-Learn.md",
+    "Startup/Frameworks and Methods/design thinking.md",
+    "Startup/Nouns/Early Adopters.md",
+    "Startup/Leadership/Good leaders make people feel safe.md",
+    "Startup/Books/Lean Startup/Growth Hypothesis.md",
+    "Startup/Communication",
+    "Startup/Books/Atomic Habits",
+    "Startup/Books/Lean Startup",
+    "Startup/Case Studies/Uber Pitch Deck.png",
     "Startup/Case Studies/Airbnb Pitch Deck.png",
-    "Startup/Business Models",
     "Startup/Frameworks and Methods/VRIO Case Study.png",
     "Startup/Frameworks and Methods/Lean Canvas.png",
     "Startup/Frameworks and Methods/Business Model Canvas.png",
     "Startup/Frameworks and Methods/Ansoff Matrix.png",
-    "Startup/Project Management/PM Tools/Gantt Chart.png",
-    "Startup/Project Management/Image_Stakeholder.png",
+    "Startup/Lectures/Startup Transition Curve.jpg",
+    "Startup/Proposal/image_Structure.png",
+    "Startup/Business Models",
     "Startup/Project Management/PM Tools",
     "Startup/Books/Surrounded by Idiots",
     "Startup/Frameworks and Methods",
     "Startup/Lectures",
     "Startup/KPIs and Metrics",
     "Startup/Presentation and Speech/TED Talks",
-    "Startup/Books",
-    "創業/Marketing/Nouns",
-    "Startup/Nouns",
     "Untitled.canvas"
   ]
 }

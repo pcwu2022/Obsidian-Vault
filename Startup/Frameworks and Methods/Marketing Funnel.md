@@ -8,7 +8,6 @@ The **marketing funnel** is a model that illustrates the customer journey from i
 6. **Loyalty**: After purchasing, efforts focus on retaining the customer through excellent service, personalized marketing, and rewards.
 7. **Advocacy**: Loyal customers become advocates, recommending the product to others and helping attract new customers.
 
-The funnel helps marketers create targeted strategies at each stage, optimizing conversions and building customer loyalty.
 ## Case: SLEK
 - 發現（前期）
 	- 預告課程
@@ -24,3 +23,4 @@ The funnel helps marketers create targeted strategies at each stage, optimizing 
 - 購買
 
 AISAS: Attention, Interests, Search and Share
+[[AARRR]]: Acquisition, Activation, Retention, Revenue, Referral

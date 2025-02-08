@@ -8,7 +8,7 @@
 
 2. **Value Innovation**:
    - The cornerstone of Blue Ocean Strategy is **value innovation**, which involves simultaneously pursuing differentiation and low cost. This creates a leap in value for both the company and its customers.
-   - Value innovation is achieved by breaking the traditional trade-off between value and cost, offering a unique value proposition while keeping costs low.
+   - Value innovation is achieved by breaking the traditional trade-off between value and cost, offering a [[UVP|unique value proposition]] while keeping costs low.
 
 3. **Strategic Moves in Blue Ocean**:
    - Instead of focusing on beating the competition, the focus is on creating new demand and new markets. This can involve creating new product categories, addressing unmet customer needs, or exploring new industries or geographical locations.

@@ -5,7 +5,7 @@ Allocating resources during the [[startup]] phase is a critical task, as resourc
 Focus on the essential components required to validate your idea and build a minimum viable product ([[MVP]]). These typically include:
 
 - Product Development: Engineers, designers, and tools needed to create the [[MVP]].
-- Market Research: Funds for surveys, focus groups, and competitor analysis.
+- Market Research: Funds for surveys, focus groups, and [[Competitor Analysis]].
 - Operations: Basic infrastructure to support the startup (office space, software licenses).
 
 
