@@ -11,13 +11,74 @@
             "id": "945d558ed15342b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Communication/Presentation and Speech/The Power of Body Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Power of Body Language"
+            }
+          },
+          {
+            "id": "8e3ea5536af81dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "牙醫通分享.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "牙醫通分享"
+            }
+          },
+          {
+            "id": "63a094aa5f38627f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DJ 創業分享.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DJ 創業分享"
+            }
+          },
+          {
+            "id": "e76f16aa526268e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Struggle to go Viral.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Struggle to go Viral"
+            }
+          },
+          {
+            "id": "28715382d6999481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HMW.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HMW"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"unique value proposition\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Struggle to go Viral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Struggle to go Viral"
             }
           },
           {
@@ -158,54 +220,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945d558ed15342b2",
+  "active": "e76f16aa526268e2",
   "lastOpenFiles": [
-    "Startup/Presentation and Speech/TED Talks/The Power of Vulnerability.md",
-    "Startup/Presentation and Speech/TED Talks/Listening to Shame.md",
-    "Startup/Presentation and Speech/The Power of Body Language.md",
-    "Startup/Presentation and Speech/TED Talk Style.md",
-    "Startup/Presentation and Speech/Storytelling.md",
-    "Startup/Presentation and Speech/Steve Jobs Style.md",
-    "Startup/Presentation and Speech/Speech Structure.md",
-    "Startup/Presentation and Speech/Pitch.md",
-    "Startup/Presentation and Speech/Personalizing Your Message.md",
-    "Startup/Presentation and Speech/Pasted image 20240928212641.png",
-    "Startup/Presentation and Speech/Opening.md",
-    "Startup/Presentation and Speech/McKinsey Style Presentation.md",
-    "Startup/Presentation and Speech/Matt Abrahams - Think Fast, Talk Smart.md",
-    "Startup/Presentation and Speech/Matt Abrahams - Compelling and Confident.md",
-    "Startup/Presentation and Speech/Logos Ethos Pathos.md",
-    "Startup/Presentation and Speech/Literary Devices.md",
-    "Startup/Presentation and Speech/Know Your Audience.md",
-    "Startup/Presentation and Speech/Know your audience.png",
-    "Startup/Presentation and Speech/Chunking.md",
-    "Startup/Presentation and Speech/Body Language.md",
-    "Startup/Communication/Anxiety on Communication.md",
-    "Startup/Presentation and Speech/15 things on your pitch deck.md",
-    "Startup/Books/Atomic Habits/Identity-Based Habits.md",
-    "Startup/Books/Lean Startup/Build-Measure-Learn.md",
-    "Startup/Frameworks and Methods/design thinking.md",
-    "Startup/Nouns/Early Adopters.md",
-    "Startup/Leadership/Good leaders make people feel safe.md",
-    "Startup/Books/Lean Startup/Growth Hypothesis.md",
-    "Startup/Communication",
-    "Startup/Books/Atomic Habits",
-    "Startup/Books/Lean Startup",
+    "Competitive Analysis.md",
+    "Competitive Analysis.png",
+    "Struggle to go Viral.md",
+    "DJ 創業分享.md",
+    "牙醫通分享.md",
+    "Communication/Presentation and Speech/The Power of Body Language.md",
+    "Startup/Nouns/Acquisition.md",
+    "Psychology/psychometrics/管理人才量表.md",
+    "Psychology/從眾行為.md",
+    "Communication/The science behind dramatically better conversations.md",
+    "Startup/KPIs and Metrics/CAGR.md",
+    "HMW.md",
+    "Communication/Presentation and Speech/15 things on your pitch deck.md",
+    "Communication/Presentation and Speech/Pitch.md",
+    "Books/Lean Startup/Value Hypothesis.md",
+    "Books/Lean Startup/Validated Learning.md",
+    "Leadership/7 Leadership Tradeoffs.md",
+    "Communication/Presentation and Speech/TED Talk Style.md",
+    "Communication/Presentation and Speech/Storytelling.md",
+    "Communication/Presentation and Speech/Steve Jobs Style.md",
+    "Communication/Presentation and Speech/Speech Structure.md",
+    "Communication/Presentation and Speech/Personalizing Your Message.md",
+    "Communication/Presentation and Speech/Opening.md",
+    "Communication/Presentation and Speech/McKinsey Style Presentation.md",
+    "Communication/Presentation and Speech/Matt Abrahams - Think Fast, Talk Smart.md",
+    "Communication/Presentation and Speech/Matt Abrahams - Compelling and Confident.md",
+    "Startup/Nouns/Value Proposition.png",
+    "Communication/Presentation and Speech/Pasted image 20240928212641.png",
+    "Communication/Presentation and Speech/Know your audience.png",
+    "Communication",
+    "Books/Atomic Habits",
+    "Books/Lean Startup",
     "Startup/Case Studies/Uber Pitch Deck.png",
     "Startup/Case Studies/Airbnb Pitch Deck.png",
     "Startup/Frameworks and Methods/VRIO Case Study.png",
     "Startup/Frameworks and Methods/Lean Canvas.png",
     "Startup/Frameworks and Methods/Business Model Canvas.png",
     "Startup/Frameworks and Methods/Ansoff Matrix.png",
-    "Startup/Lectures/Startup Transition Curve.jpg",
-    "Startup/Proposal/image_Structure.png",
     "Startup/Business Models",
     "Startup/Project Management/PM Tools",
-    "Startup/Books/Surrounded by Idiots",
+    "Books/Surrounded by Idiots",
     "Startup/Frameworks and Methods",
     "Startup/Lectures",
     "Startup/KPIs and Metrics",
-    "Startup/Presentation and Speech/TED Talks",
+    "Communication/Presentation and Speech/TED Talks",
     "Untitled.canvas"
   ]
 }

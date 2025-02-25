@@ -32,7 +32,7 @@ Zuckerberg’s success has not been without significant challenges. As Facebook 
 
 In response to mounting criticism, Zuckerberg shifted Facebook’s focus toward **user privacy** and emphasized building more **secure communication tools** like **encrypted messaging**. He also pushed forward initiatives to fight the spread of misinformation and hate speech on the platform, though many believed the changes were slow to take effect.
 
-Facebook's role in political [[influence]], particularly during the 2016 U.S. elections and various international elections, has led to ongoing scrutiny. Governments worldwide have scrutinized Facebook for its immense power in shaping public discourse and called for regulations to curb its influence.
+Facebook's role in political [[Influence]], particularly during the 2016 U.S. elections and various international elections, has led to ongoing scrutiny. Governments worldwide have scrutinized Facebook for its immense power in shaping public discourse and called for regulations to curb its influence.
 
 ### Transition to Meta and the Metaverse Vision
 In **2021**, Zuckerberg announced that Facebook’s parent company would rebrand as **Meta**, marking a strategic shift toward his vision of the **metaverse**—a virtual, immersive world where people can interact in digital spaces using avatars. Meta represents Zuckerberg’s next big bet on the future of the internet, transitioning from social networking to **virtual reality (VR)** and **augmented reality (AR)**. 

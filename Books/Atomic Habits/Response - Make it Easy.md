@@ -10,7 +10,7 @@ The third law of behavior change, as explained in _Atomic Habits_, is to "Make I
 
 - A habit should start with an action that takes less than two minutes.
 - Example: Instead of "I will run five miles," start with "I will put on my running shoes."
-- Scaling down habits removes resistance and builds [[momentum]].
+- Scaling down habits removes resistance and builds [[Momentum]].
 
 ### Reducing Friction
 

@@ -69,4 +69,4 @@
 - How do you prevent yourself from sounding ignorant?
 	- Ask “Why do you say that?”, or “How do you feel about that?”
 	- Ask them to give advice. Advice changes the relationship people have with the question asker.
-	- Be mindful about Cultural Differences and [[know your audience]] and their cultural expectations.
+	- Be mindful about Cultural Differences and [[Know Your Audience]] and their cultural expectations.

@@ -1,4 +1,4 @@
-Breaking bad habits requires reversing the Four Laws of Behavior Change from _Atomic Habits_. By making bad habits invisible, unattractive, difficult, and unsatisfying, we can effectively reduce their [[influence]].
+Breaking bad habits requires reversing the Four Laws of Behavior Change from _Atomic Habits_. By making bad habits invisible, unattractive, difficult, and unsatisfying, we can effectively reduce their [[Influence]].
 
 ### 1. Make It Invisible
 

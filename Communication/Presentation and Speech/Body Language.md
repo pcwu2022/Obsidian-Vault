@@ -35,7 +35,7 @@
 - **Arms Behind Back**: Common in figures of authority, shows the desire for personal space and authority.
 
 ### Body Language in Social Settings
-- **Holding Hands**: Signifies intimacy and [[trust]]. The dominant person’s hand is often on top.
+- **Holding Hands**: Signifies intimacy and [[Trust]]. The dominant person’s hand is often on top.
 - **Interlocked Elbows**: Used by close pairs to indicate comfort and confidentiality.
 - **Spreading Arms Over Objects**: Reflects territoriality and confidence.
 - **Leaning on Furniture**: Indicates doubt or insecurity, especially when declaring something uncertain.

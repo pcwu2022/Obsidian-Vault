@@ -27,7 +27,7 @@ James Clear’s _Atomic Habits_ is a practical guide to building good habits, br
     
     - Reinforce habits with immediate positive feedback.
     - Track progress to stay motivated (habit tracking).
-    - Use reinforcement strategies to maintain [[momentum]].
+    - Use reinforcement strategies to maintain [[Momentum]].
 
 ### [[Identity-Based Habits]]
 

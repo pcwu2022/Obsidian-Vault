@@ -8,45 +8,66 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Learning  ",
+      "query": "path:Ethics  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Ethics  ",
+      "query": "path:History  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Psychology  ",
+      "query": "path:Books",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "Path:Startup  ",
+      "query": "path:Startup  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5431378
       }
     },
     {
-      "query": "Path:Biology  ",
+      "query": "path:Communication  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "Path:History  ",
+      "query": "path:Leadership  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 11440627
+      }
+    },
+    {
+      "query": "path:Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Psychology  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Learning  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -60,6 +81,6 @@
   "repelStrength": 8.9573864914728,
   "linkStrength": 1,
   "linkDistance": 222,
-  "scale": 0.11169983977151372,
+  "scale": 0.1801367852739431,
   "close": true
 }

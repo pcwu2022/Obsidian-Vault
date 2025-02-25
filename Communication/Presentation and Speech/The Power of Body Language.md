@@ -4,8 +4,8 @@
     - People often make themselves smaller (hunched, crossed legs) or bigger (expanding, taking up space).
 2. Impact of Nonverbal Communication
     
-    - [[Body language]] affects how we judge others and how others judge us.
-    - Even brief visual impressions [[influence]] key life decisions, e.g., hiring, lawsuits, elections.
+    - [[Body Language]] affects how we judge others and how others judge us.
+    - Even brief visual impressions [[Influence]] key life decisions, e.g., hiring, lawsuits, elections.
 3. Power Dynamics in Body Language
     
     - Powerful individuals expand, open up; powerless individuals close up.
