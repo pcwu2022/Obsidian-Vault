@@ -14,11 +14,11 @@ CAC = Number of New Customers Acquired / Total Cost of Sales and Market
 3. **Channel Optimization**:
    - CAC can vary significantly by acquisition channel (e.g., social media ads vs. [[SEO]] vs. referral programs). By tracking CAC by channel, startups can identify which channels bring in cost-effective leads and optimize their strategies accordingly.
 
-4. **Investor Attraction**:
+4. **[[Investor]] Attraction**:
    - A manageable and decreasing CAC is a strong indicator for investors. Startups that demonstrate an efficient and scalable acquisition model are more likely to attract investors who see sustainable growth potential.
 
 5. **Product-Market Fit and Business Viability**:
-   - A high CAC might indicate poor [[PMF]] if it’s challenging to acquire customers cost-effectively. Startups can use CAC to assess if their product resonates with the target market or if they need to adjust their approach.
+   - A high CAC might indicate poor [[Product Market Fit]] if it’s challenging to acquire customers cost-effectively. Startups can use CAC to assess if their product resonates with the target market or if they need to adjust their approach.
 
 6. **Improving Customer [[Retention]] and [[CLV]]**:
    - Understanding CAC also highlights the importance of [[Retention]] efforts. By improving customer loyalty and CLV, startups can afford a higher CAC and still be profitable, as each customer delivers more value over time.

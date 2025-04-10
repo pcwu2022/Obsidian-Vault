@@ -74,7 +74,7 @@
    - [[Cost Leadership]]: Offering lower prices than competitors (e.g., Walmart, IKEA).
    - [[Low-Touch]]: Minimizing customer interaction and reducing operational costs (e.g., Ryanair).
    - Economies of Scale: Achieving cost savings through mass production (e.g., car manufacturing).
-   - Freight on Board (FOB): Customer pays for shipping and risks (used in logistics, international trade).
+   - Freight on Board (FOB): Customer pays for shipping and risks (used in logistics, [[international trade]]).
 
 ### 10. Social & Sustainable models
    - [[Social Enterprise]]: Businesses aimed at solving social problems (e.g., TOMS Shoes).

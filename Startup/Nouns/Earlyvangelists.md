@@ -9,12 +9,12 @@
 
 4. **Passionate Advocates**: These users become so impressed by the product's potential or innovation that they advocate for it among their network of peers, on social media, or even in public forums. They help create buzz and attract more users without direct compensation.
 
-5. **Market Validation**: Earlyvangelists help validate [[PMF]] by showing that there is genuine interest and enthusiasm for what you’re offering, even in its early stages.
+5. **Market Validation**: Earlyvangelists help validate [[Product Market Fit]] by showing that there is genuine interest and enthusiasm for what you’re offering, even in its early stages.
 
 ### Why They Are Important:
 - **[[Momentum]] Generation**: They create initial [[Momentum]] for a product, helping it gain visibility in the market.
 - **Organic Growth**: Their evangelism leads to organic word-of-mouth marketing, which is often more effective and trusted than paid advertising.
-- **Investor Appeal**: Having earlyvangelists demonstrates to potential investors that there is excitement and demand for the product, which can help secure funding.
+- **[[Investor]] Appeal**: Having earlyvangelists demonstrates to potential investors that there is excitement and demand for the product, which can help secure funding.
 
 ### How to Attract Earlyvangelists:
 - **Target Niche Communities**: Focus on groups or individuals who are likely to benefit the most from your product and have a strong interest in innovation or solving specific problems.

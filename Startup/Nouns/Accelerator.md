@@ -5,7 +5,7 @@ You are expected to have more than an idea - ideally a prototype or an actual pr
 
 ## What is a startup accelerator? 
 
-There are over 200 accelerator programs in the United States — many more globally — and they differ in approach, focus, cost and effectiveness. The well-respected [Y Combinator](https://www.ycombinator.com/) and SVB’s partner, [Techstars](https://www.techstars.com/), are investor funded and work primarily with tech startups. Others are sponsored by universities, in the case of [Stanford University’s StartX](https://www.startx.com/), or by corporations — the latter is particularly true for healthcare startups. 
+There are over 200 accelerator programs in the United States — many more globally — and they differ in approach, focus, cost and effectiveness. The well-respected [Y Combinator](https://www.ycombinator.com/) and SVB’s partner, [Techstars](https://www.techstars.com/), are [[Investor]] funded and work primarily with tech startups. Others are sponsored by universities, in the case of [Stanford University’s StartX](https://www.startx.com/), or by corporations — the latter is particularly true for healthcare startups. 
 
 Private startup accelerators can provide funding, and the money helps cover early-stage business expenses as well as travel and living expenses for the three-month residency at the in-person startup accelerators. However, the funds and guidance come at a price. Just like any other equity funding, signing an accelerator agreement typically means [giving up a slice of your company](https://www.svb.com/startup-insights/startup-equity/startup-equity-dilution/). Startup accelerators generally take 5% to 10% of your equity in exchange for training and a relatively small amount of funding.   
   

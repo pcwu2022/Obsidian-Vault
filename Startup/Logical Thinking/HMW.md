@@ -10,7 +10,7 @@ HMW questions reframe problems into opportunities for exploration. They are stru
 
 ### 2. Why HMW Questions Matter in Startups
 
-Startups deal with uncertainty, rapid iteration, and evolving user [[needs]]. HMW questions help by:
+Startups deal with uncertainty, rapid iteration, and evolving user [[Needs]]. HMW questions help by:
 
 - Breaking down broad challenges into actionable steps.
 - Encouraging a solution-focused mindset rather than getting stuck on problems.

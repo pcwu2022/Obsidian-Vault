@@ -24,6 +24,6 @@
 	- carry right or wrong to communications
 		- no one right way of communication
 		- reframe it as a conversation
-		- you're in service of their [[needs]]
+		- you're in service of their [[Needs]]
 		- use "us", "you", "we" to connect with people
 		- ask questions

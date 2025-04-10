@@ -47,7 +47,7 @@
 	- Ten marketing [[Channels]] X
 	- Focus on one or two strategies and dive deep
 	- Detail a plan: timeline, [[Budget]] ...
-	- Show the investor you budgeted what you need to reach that milestone
+	- Show the [[Investor]] you budgeted what you need to reach that milestone
 		- ex: product launch, new employees ...
 - Market Size
 	- How much revenue can your business generate annually

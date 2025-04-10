@@ -61,7 +61,7 @@ For startups, POB is a critical milestone in scaling operations, securing fundin
     - Secure partnerships or additional funding to fuel growth.
 ### Importance of POB for Startups:
 
-- Investor Appeal: Demonstrates that the startup is not just viable but profitable, attracting larger investments.
+- [[Investor]] Appeal: Demonstrates that the startup is not just viable but profitable, attracting larger investments.
 - Market Credibility: Builds trust with customers, partners, and stakeholders.
 - Scaling Readiness: Ensures the business can handle expansion while maintaining quality and profitability.
 - Strategic Insights: Offers a clear understanding of which parts of the business are most lucrative and scalable.

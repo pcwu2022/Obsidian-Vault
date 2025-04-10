@@ -69,7 +69,7 @@ This means the startup must sell 334 bottles or generate $8,350 in revenue to br
 1. Increase Revenue:
     
     - Improve marketing to boost sales.
-    - Adjust pricing, if the [[market]] allows.
+    - Adjust pricing, if the [[Market]] allows.
 2. Lower Fixed Costs:
     
     - Reduce overhead like rent or unnecessary subscriptions.

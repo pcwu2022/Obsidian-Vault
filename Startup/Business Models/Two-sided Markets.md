@@ -10,7 +10,7 @@ A two-sided market connects two distinct user groupsâ€”providers and consumersâ€
 1. **Two User Groups**: The platform serves both providers (e.g., sellers, service providers) and consumers (e.g., buyers, service seekers).
 2. **Network Effects**: Value increases as more users join the platform. Positive cross-side effects drive growth.
 3. **Platform Revenue**: Typically earned through commissions, subscriptions, or fees from one or both sides.
-4. **Interdependence**: The success of one user group is tied to the growth of the other.
+4. **[[Interdependence]]**: The success of one user group is tied to the growth of the other.
 
 ---
 

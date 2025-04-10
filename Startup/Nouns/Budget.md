@@ -14,7 +14,7 @@ A budget is a financial plan that outlines expected income and expenses over a s
 3. Variable Expenses: Costs that fluctuate depending on activity or usage.
     
     - Examples: Utilities, raw materials, travel, marketing campaigns.
-4. Savings/Profit Goals: Money set aside for future [[needs]] or business profit margins.
+4. Savings/Profit Goals: Money set aside for future [[Needs]] or business profit margins.
     
 5. Contingency/Emergency Funds: Reserves for unexpected costs.
     
@@ -58,5 +58,5 @@ A budget is a financial plan that outlines expected income and expenses over a s
 
 1. Be Realistic: Use accurate income and expense estimates.
 2. Regular Reviews: Update the budget frequently to reflect changes.
-3. Prioritize Essentials: Focus on [[needs]] before wants.
+3. Prioritize Essentials: Focus on [[Needs]] before wants.
 4. Use Tools: Leverage software like Excel, Google Sheets, or budgeting apps.

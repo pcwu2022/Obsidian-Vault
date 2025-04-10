@@ -1,4 +1,4 @@
-JTBD (Jobs to Be Done) is a framework that focuses on understanding customer needs by identifying the "job" a customer is trying to accomplish when they use a product or service. Rather than simply focusing on demographics or traditional [[segmentation]], JTBD looks at the underlying motivations and tasks that drive customer behavior. The goal is to design or improve a product by addressing these core motivations effectively.
+JTBD (Jobs to Be Done) is a framework that focuses on understanding customer needs by identifying the "job" a customer is trying to accomplish when they use a product or service. Rather than simply focusing on demographics or traditional [[Segmentation]], JTBD looks at the underlying motivations and tasks that drive customer behavior. The goal is to design or improve a product by addressing these core motivations effectively.
 
 ### Key Concepts in JTBD:
 1. Job: The task or outcome that a customer aims to achieve.

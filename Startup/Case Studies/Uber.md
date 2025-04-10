@@ -8,7 +8,7 @@
     
     - **Innovation**: Disrupted traditional taxi services by offering a more efficient, transparent, and cashless ride-booking experience.
     - **Scalability**: Leveraged technology to rapidly scale in multiple cities worldwide, adjusting to local regulations and market needs.
-    - **Dynamic Pricing**: Introduced surge pricing, enabling more drivers during high-demand periods and optimizing supply and demand.
+    - **Dynamic Pricing**: Introduced surge pricing, enabling more drivers during high-demand periods and optimizing [[supply and demand]].
 - **Leadership**:
     
     - **Travis Kalanick** (Co-founder & former CEO): Aggressive leadership and risk-taking in expansion efforts, often prioritizing growth over regulatory compliance. Known for driving a "move fast and break things" culture.

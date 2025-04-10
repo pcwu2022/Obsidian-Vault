@@ -89,7 +89,7 @@ Now, imagine a world where every decision is powered by clarity. Where Emma know
 That’s not just our vision—it’s already happening. In our first year, Lumos has helped businesses in e-commerce, [[SaaS]], and retail make smarter decisions, faster. And as we grow, we’re empowering leaders everywhere to illuminate their data and act with confidence.
 
 **Call to Action – Join Us**  
-Today, we’re inviting you to join the Lumos revolution. Whether you’re an investor, a business leader, or someone passionate about turning data into impact, let’s partner to make decision-making smarter, faster, and simpler.
+Today, we’re inviting you to join the Lumos revolution. Whether you’re an [[Investor]], a business leader, or someone passionate about turning data into impact, let’s partner to make decision-making smarter, faster, and simpler.
 
 Because in a world overwhelmed by noise, clarity is the ultimate advantage. Let Lumos light the way.
 

@@ -1,48 +1,71 @@
-## What is TAM, SAM & SOM
+# TAM, SAM, SOM: The Market Analysis Framework
 
-**TAM** = Total Addressable Market (Or Total Available Market)—This represents the revenue opportunity that a company has if it has a full 100% of the market share, and there is no competition.
+The market analysis framework uses three key metrics to evaluate business potential and attract investors by demonstrating market opportunity in a structured manner.
 
-**SAM** = Serviceable Addressable Market—This represents the “slice” of the TAM “pie” that can be served by a company’s products and services.
+## Core Concepts
 
-**SOM** = Serviceable Obtainable Market—This represents the _actual_ amount of the market that is being served by the company’s products and services.
+|Metric|Definition|Metaphor|
+|---|---|---|
+|**TAM** (Total Addressable Market)|Maximum theoretical revenue with 100% market share|Entire iceberg|
+|**SAM** (Serviceable Addressable Market)|Market segment that can be served by your products|Underwater portion|
+|**SOM** (Serviceable Obtainable Market)|Actual market share you can realistically capture|Visible tip|
 
-These three terms are related to one another, and are generally depicted as a series of three circles, with SOM being nested in SAM, and subsequently nested within TAM:
+## Calculation Methods
 
-![](https://cdn.prod.website-files.com/62d6de70dd9e54fe5d03255a/6548a2b7ad3faf3fb5581a75_6527c8fef9346497a5055691_955fe19f-5624-40f6-be32-994ca6b92a1d_tam-sam-som.png)
+**Top-down approach:**
 
-### TAM
+- Start with industry-wide data
+- Apply relevant conversion factors
+- Use discount factors based on research
+- Determine realistic market segments
 
-The Total Addressable Market (TAM) is the theoretical maximum revenue a company could achieve if every potential customer converted and paid the highest price possible. While TAM indicates the potential scale of a business, it's unrealistic since no company captures the entire market. TAM calculations help inform strategy and attract investors but assume monopolistic control, which is rare due to competition.
+**Bottom-up approach:**
 
-To calculate TAM, there are three methods:
+- Base on actual customer metrics
+- Extrapolate from existing data
+- Cross-check with top-down calculations
+- Ensure logical consistency
 
-1. **Top-Down**: Uses industry reports for broad market estimates, though the data might not be fully relevant or current.
-2. **Bottom-Up**: Estimates based on previous sales and [[Pricing]]; for example, multiplying the number of potential customers by the annual revenue per customer.
-3. **Value Theory**: Useful in innovative sectors where customers might pay a premium for unique features.
+## Example: Phone Screen Protector Business
 
-### SAM
+- **TAM**: Entire Taiwan screen protector market
+- **SAM**: University area market potential if dominant
+- **SOM**: Realistic first-year revenue projection
 
-The Serviceable Available Market (SAM) refines TAM by focusing on the portion of the market the company can realistically serve based on product relevance. Calculating SAM typically uses a bottom-up approach, focusing on a specific segment of TAM.
+## Strategic Considerations
 
-### SOM
+- TAM should be optimistically large to justify investment
+- SAM requires more precision but remains somewhat optimistic
+- SOM must be realistic and defensible
+- New startups should conduct small experiments to estimate SOM
 
-The Serviceable Obtainable Market (SOM) reflects the actual market share captured by the company. SOM calculations are usually based on past market share and SAM adjustments. Estimating SOM helps businesses understand their competitive position and potential growth.
+## Investor Perspective
 
-### Importance of TAM, SAM, and SOM for Startups
-Investors look for a balanced TAM. A high TAM suggests heavy competition, while a low TAM may signal limited growth potential. Investors prefer a TAM that shows room for growth but is realistically attainable. SAM and SOM figures help investors assess competition and market entry strategies.
+- Investors seek businesses with large TAM potential
+- They evaluate the ratio between investment and market opportunity
+- SOM projections become accountability metrics
+- Board members track performance against these projections
 
-### Tips for Creating a Compelling TAM Slide
-1. **Use Bottom-Up Analysis**: This approach shows detailed market understanding.
-2. **Accurate Numbers**: Avoid inflating TAM with irrelevant customer segments.
-3. **Clear Geographic Scope**: If focused locally, avoid global data.
-4. **Realistic [[Pricing]]**: Base calculations on defensible assumptions.
-5. **Future Vision**: Show TAM growth potential over time.
+## Practical Tips
 
-### Market Size Resources
-Entrepreneurs should engage in their own market research by:
-- Analyzing online reports,
-- Reviewing competitor financials,
-- Consulting industry experts,
-- Using online research tools.
+- Present as the market authority
+- Make defensible assumptions
+- Ensure coherence between calculation methods
+- Balance optimism with realism
+- Tell a clear, convincing story
 
-In fast-evolving sectors, TAM estimates might initially appear low but can grow as the market and product evolve, as seen with tech giants like Google and Facebook.
+## Importance for Startups
+
+Investors prefer a balanced TAM approach. Extremely high TAM figures suggest heavy competition, while low TAM indicates limited growth potential. The ideal TAM shows significant growth room while remaining attainable.
+
+## Creating Compelling Market Analysis
+
+1. Use bottom-up analysis for credibility
+2. Avoid inflating numbers with irrelevant segments
+3. Define clear geographic scope
+4. Base calculations on defensible pricing assumptions
+5. Demonstrate growth potential over time
+
+In fast-evolving markets, initial TAM estimates may appear conservative but can expand dramatically as the market develops, similar to how tech giants like Google and Facebook grew beyond initial projections.
+
+The framework serves as both a strategic planning tool and a communication device for investors, helping startups articulate their market potential while demonstrating a realistic understanding of their business opportunity.

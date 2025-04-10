@@ -6,7 +6,7 @@
 	 - 看到機會，抓到了，就會成長
  - [[Business Model Canvas]]
  - [[Start with WHY]]
- - [[PMF]]
+ - [[Product Market Fit]]
 	 - Product
 	 - [[Market]]
 	 - Price [[Pricing]]

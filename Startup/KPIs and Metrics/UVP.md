@@ -1,5 +1,5 @@
 A **Unique Value Proposition (UVP)**, also known as a unique selling proposition (USP), is a clear statement that explains:
-1. how your product or service solves a problem or fulfills a [[needs|need]] for your customers, 
+1. how your product or service solves a problem or fulfills a [[Needs|need]] for your customers, 
 2. what specific benefits it provides, 
 3. why it’s better or different from competing offerings. 
 The UVP is critical because it captures the essence of why customers should choose your product over others.

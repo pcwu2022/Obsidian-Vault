@@ -49,7 +49,7 @@
 |---------------------|---------------|--------------|
 | Task-Focused        | Autocratic    | Team Leader  |  
 | People-Focused      | Country Club  | Laissez-faire|
-### 9. [[PMF|Product-Market Fit]] Matrix
+### 9. [[Product Market Fit|Product-Market Fit]] Matrix
 
 |                       | Product Well Defined                | Product Undefined |     |
 | --------------------- | ----------------------------------- | ----------------- | --- |

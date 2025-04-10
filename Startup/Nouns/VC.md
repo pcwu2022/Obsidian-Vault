@@ -24,7 +24,7 @@ VC became synonymous with the growth of technology companies in Silicon Valley o
 
 ## How to Secure VC Funding
 
-- **Submit a Business Plan:** Any business looking for venture capital must submit a business plan to a venture capital firm or an angel investor. The firm or the investor will perform due diligence, which includes a thorough investigation of the company's [[Business Model]], products, management, and operating history.
+- **Submit a Business Plan:** Any business looking for venture capital must submit a business plan to a venture capital firm or an angel [[Investor]]. The firm or the investor will perform due diligence, which includes a thorough investigation of the company's [[Business Model]], products, management, and operating history.
 - **Investment Pledge:** Once due diligence has been completed, the firm or the investor will pledge an investment of capital in exchange for equity in the company. These funds may be provided all at once, but more typically the capital is provided in rounds. The firm or investor then takes an active role in the funded company, advising and monitoring its progress before releasing additional funds.
 - **Exit:** The investor exits the company after some time, typically four to six years after the initial investment, by initiating a merger, [[Acquisition]], or initial public offering ([[IPO]]).  
     

@@ -1,6 +1,6 @@
 Porter’s Five Forces is a framework for ==analyzing the competitive forces that shape an industry==. 
 
-1. **Threat of New Entrants**: The ease or difficulty with which new competitors can enter the industry and challenge established companies. Factors like capital requirements, [[brand]] loyalty, and economies of scale influence this force.
+1. **Threat of New Entrants**: The ease or difficulty with which new competitors can enter the industry and challenge established companies. Factors like capital requirements, [[Brand]] loyalty, and economies of scale influence this force.
    
 2. **Bargaining Power of Suppliers**: The power suppliers have in influencing the price of inputs. If there are few suppliers or if they offer unique products, they can charge higher prices and influence the industry’s cost structure.
    

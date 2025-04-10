@@ -1,0 +1,18 @@
+
+- **Externalities:** Occur when an activity impacts a bystander who is neither compensated nor pays for the effect.
+    - **Negative Externality:** Adverse impact (e.g., pollution). Leads to overproduction in the market.
+    - **Positive Externality:** Beneficial impact (e.g., vaccinations). Leads to underproduction in the market.
+- **Market Inefficiency:** Externalities cause market equilibrium to be inefficient as buyers and sellers ignore external effects. Social cost/value diverges from private cost/value.
+- **Public Policy Toward Externalities:** Government intervenes to address externalities.
+    - **Command-and-Control Policies (Regulation):** Direct regulation of behavior (e.g., pollution limits, required technologies). Can be inefficient due to information needs.
+    - **Market-Based Policies:** Incentivize private solutions.
+        - **Corrective Taxes (Pigovian Taxes):** Tax negative externalities to internalize costs and reduce the activity (e.g., gasoline tax). Often more efficient than regulation.
+        - **Subsidies:** Encourage positive externalities by reducing costs.
+        - **Tradable Pollution Permits:** Allow firms to buy and sell the right to pollute, leading to efficient allocation of pollution reduction.
+- **Private Solutions to Externalities:** Individuals can sometimes resolve externalities privately.
+    - **Moral Codes and Social Sanctions:** Discourage negative behaviors.
+    - **Charities:** Support activities with positive externalities.
+    - **Integrating Businesses:** Internalizes externalities within a single entity.
+    - **Contracts:** Agreements between parties to address externalities.
+- **Coase Theorem:** If private parties can bargain without cost, they can always reach an efficient solution to externalities, regardless of the initial allocation of rights.
+- **Transaction Costs:** Costs of reaching and enforcing an agreement can hinder private solutions. Bargaining can also fail due to holdouts or coordination problems with many parties.

@@ -14,7 +14,7 @@ A Proof of Concept (POC) is a demonstration designed to test whether an idea, pr
 - Challenge: Could people rent out their living spaces to strangers?
 - POC Approach: The founders rented out air mattresses in their apartment to attendees of a conference and created a simple website to facilitate bookings. This test validated the demand for such a platform, leading to [[Airbnb]]'s development.
 
-#### 2. Dropbox ([[MVP]]-Style POC for Investor Buy-In)
+#### 2. Dropbox ([[MVP]]-Style POC for [[Investor]] Buy-In)
 
 - Challenge: Could a seamless file-sharing platform be built?
 - POC Approach: Dropbox released a video demo of how their service would work before fully building the platform. The video generated significant interest, validating demand and attracting investors.
@@ -47,7 +47,7 @@ A Proof of Concept (POC) is a demonstration designed to test whether an idea, pr
 ### Importance of POC for Startups:
 
 - Risk Mitigation: Identifies potential flaws early, saving resources.
-- Investor Confidence: Demonstrates commitment and capability.
+- [[Investor]] Confidence: Demonstrates commitment and capability.
 - Market Validation: Provides initial evidence that the product/service can succeed.
 - Iterative Improvement: Informs the design of the Minimum Viable Product ([[MVP]]) or full-scale product.
 

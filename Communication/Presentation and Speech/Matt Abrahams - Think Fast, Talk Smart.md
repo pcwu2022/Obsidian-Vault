@@ -36,7 +36,7 @@
 ### Step 3: Slow down and listen.
 
 - Understand the demands of requirements you find yourself in to respond appropriately.
-- Your fundamental job as a communicator is to be in service of the audience. Understand their [[needs]] by listening.
+- Your fundamental job as a communicator is to be in service of the audience. Understand their [[Needs]] by listening.
 - You must focus and listen (Truly understand what the person is trying to say).
 - Listen, and then respond.
 

@@ -31,7 +31,7 @@ A **financial forecasting template** is a tool or document used to predict a com
    If the business plans to invest in long-term assets (e.g., equipment, property, software), these expenditures should be included in the forecast.
 
 8. **Funding Needs**:  
-   The template can also include projections for future funding requirements (if any), such as loans or investor contributions, especially if the business anticipates needing external capital.
+   The template can also include projections for future funding requirements (if any), such as loans or [[Investor]] contributions, especially if the business anticipates needing external capital.
 
 9. **Assumptions**:  
    Any assumptions made for the projections, such as sales growth rates, customer [[Acquisition]] costs, and changes in market conditions.

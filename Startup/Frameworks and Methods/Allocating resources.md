@@ -34,7 +34,7 @@ Ensure that funding is used strategically:
 
 - Operating [[Budget]]: Have a clear breakdown of expenses (e.g., salaries, tools, marketing).
 - Buffer for Uncertainty: Keep a reserve for unexpected costs.
-- Investor Communication: If you have investors, allocate funds to ensure milestones that can secure the next funding round.
+- [[Investor]] Communication: If you have investors, allocate funds to ensure milestones that can secure the next funding round.
 
 
 
@@ -66,7 +66,7 @@ Tie resource allocation to specific goals:
 
 - Allocate a [[Budget]] for achieving an MVP.
 - Set aside funds for customer [[Acquisition]] after product validation.
-- Plan for scaling operations only after clear product-market fit [[PMF]] is established.
+- Plan for scaling operations only after clear product-market fit [[Product Market Fit]] is established.
 
 
 

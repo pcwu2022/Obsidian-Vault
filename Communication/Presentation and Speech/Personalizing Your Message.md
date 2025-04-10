@@ -40,7 +40,7 @@ When communicating, it’s essential to package your ideas in a way that shows e
 
 To persuade effectively, you must think from the audience’s perspective. This requires empathy, but also an understanding of their priorities and struggles. Put yourself in their shoes, and address their doubts and concerns.
 
-> If you’re presenting a business idea to a skeptical investor, you might say: “I know you’ve heard pitches like this before, and it’s easy to think this idea might not stand out. But here’s why I believe this will work…” By acknowledging their skepticism, you show respect for their position and build trust.
+> If you’re presenting a business idea to a skeptical [[Investor]], you might say: “I know you’ve heard pitches like this before, and it’s easy to think this idea might not stand out. But here’s why I believe this will work…” By acknowledging their skepticism, you show respect for their position and build trust.
 
 ### 8. Address Why They Might Not Appreciate Your Idea
 
