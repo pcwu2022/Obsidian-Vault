@@ -123,6 +123,7 @@ class ObsidianVaultFormatter:
     def _adjust_subtitle_levels(self, content):
         """Ensure subtitles start at h2 (## Subtitle)"""
         # Check if file has any h1 headings
+        """
         h1_pattern = r'^#\s+[^\n#]+'
         h1_headings = re.findall(h1_pattern, content, re.MULTILINE)
         
@@ -145,7 +146,7 @@ class ObsidianVaultFormatter:
                 if count > 0:
                     content = new_content
                     self.stats['subtitle_levels_adjusted'] += count
-                        
+        """
         return content
     
     def _remove_emojis_from_subtitles(self, content):
