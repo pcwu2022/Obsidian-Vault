@@ -102,7 +102,6 @@ class ObsidianVaultFormatter:
     def _fix_subtitle_spacing(self, content):
         """Ensure one empty line before subtitles"""
         # First, make sure there's at least one newline before each subtitle
-        # Fix for handling h2 subtitles at the beginning of the file or right after content without newline
         subtitle_pattern = r'([^\n])\n?(#{2,}[\s]+)'
         new_content, count = re.subn(subtitle_pattern, r'\1\n\n\2', content)
         self.stats['subtitle_spacing_fixed'] += count
@@ -110,15 +109,22 @@ class ObsidianVaultFormatter:
         # Handle case where subtitle is at the very beginning of the file
         if content.startswith('#'):
             new_content = content
-        elif re.match(r'^#{2,}[\s]+', content):
-            new_content = content
         
-        # Then, ensure there's exactly one empty line before subtitles
+        # Then, ensure there's exactly one empty line before subtitles (not more)
         multiple_newlines_pattern = r'\n{3,}(#{2,}[\s]+)'
         new_content, count = re.subn(multiple_newlines_pattern, r'\n\n\1', new_content)
         self.stats['subtitle_spacing_fixed'] += count
         
-        return new_content
+        # Fix: Remove any empty headings that might have been introduced
+        empty_heading_pattern = r'^(#+)\s*$'
+        lines = new_content.split('\n')
+        filtered_lines = []
+        
+        for line in lines:
+            if not re.match(empty_heading_pattern, line.strip()):
+                filtered_lines.append(line)
+        
+        return '\n'.join(filtered_lines)
     
     def _adjust_subtitle_levels(self, content):
         """Ensure subtitles start at h2 (## Subtitle)"""
