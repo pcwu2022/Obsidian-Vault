@@ -8,7 +8,7 @@ Vernacchia (2003) defined concentration simply as “the ability to perform with
 
 在定義注意力(Attention)時經常遇到不同模糊甚至是矛盾的定義。但 Attention is the flexible control of limited computational resources.注意力是對有限計算資源的靈活控制。
 
-It has been studied in conjunction with many other topics in neuroscience and psychology including awareness, vigilance, saliency, executive control, and learning.
+It has been studied in conjunction with many other topics in neuroscience and [[psychology]] including awareness, vigilance, saliency, executive control, and learning.
 
 注意力的研究由心理學開始，設計良好的行為實驗可以展現不同情況下注意力的傾向和能力。認知神經學和認知心理學則希望可以建立模組turn these observations into models of how mental processes could create such behavioral patterns.
 

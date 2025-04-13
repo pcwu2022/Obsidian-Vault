@@ -11,7 +11,7 @@
 - These constructs do not exist in objective reality but are powerful because large groups of people believe in them.
 - This ability distinguishes humans from other animals, enabling the formation of legal, political, and economic systems.
 
-### The Influence of Fictional Entities
+### The [[Influence]] of Fictional Entities
 
 - Religious beliefs and human rights exist only in collective imagination.
 - Nations and economies function based on shared narratives, not physical realities.

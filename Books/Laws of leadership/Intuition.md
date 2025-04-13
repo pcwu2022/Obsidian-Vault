@@ -28,4 +28,4 @@ Leaders evaluate everything with a leadership bias
 
 ### Examples
 [[H. Norman Schwarzkopf]]
-[[Steve Jobs]] Reinventing Apple
+[[Steve Jobs]] Reinventing [[Apple]]

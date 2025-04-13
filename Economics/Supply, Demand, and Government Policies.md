@@ -22,9 +22,9 @@
 - **Taxes on Buyers:** Make consumption less attractive, shift the demand curve left (downward by the tax amount), lead to a lower equilibrium price and lower quantity. Buyers effectively pay more, and sellers receive less.
 - **Equivalence of Taxes:** Taxes on buyers and sellers are equivalent in terms of their impact on the equilibrium price, quantity, and the sharing of the tax burden.
 - **Payroll Tax (FICA):** Tax on wages, the burden is shared between workers (lower wages received) and firms (higher wages paid) regardless of the legislated division.
-- **Elasticity and Tax Incidence:**
+- **[[Elasticity]] and Tax Incidence:**
     - The burden of a tax falls more heavily on the side of the market that is less elastic.
     - Inelastic demand: Buyers bear more of the burden.
     - Inelastic supply: Sellers bear more of the burden.
-    - Elasticity reflects the willingness to leave the market when conditions worsen. The side with fewer alternatives bears more of the tax burden.
+    - [[Elasticity]] reflects the willingness to leave the market when conditions worsen. The side with fewer alternatives bears more of the tax burden.
 - **Luxury Tax Example:** The burden of the 1990s luxury tax on items like yachts fell more on suppliers (who likely had a more inelastic supply in the short run) than the wealthy buyers (with elastic demand), leading to unintended economic consequences and eventual repeal.

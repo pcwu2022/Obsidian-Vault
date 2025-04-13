@@ -34,7 +34,7 @@
 |-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | Demographic             | Targets high-income customers with premium products (MacBooks, iPhones) and more [[Budget]]-friendly options (iPhone SE).                                   | Maintains a strong premium brand while appealing to diverse income groups. |
 | Psychographic           | Focuses on consumers who value innovation, design, and simplicity (e.g., sleek product designs, intuitive interfaces).                                    | Commands premium [[Pricing]] and customer loyalty.                   |
-| Behavioral              | Segments based on user behavior, with tailored marketing for long-term Apple product users and new customers.                                            | Maximizes customer lifetime value and repeat purchases.          |
+| Behavioral              | Segments based on user behavior, with tailored marketing for long-term [[Apple]] product users and new customers.                                            | Maximizes customer lifetime value and repeat purchases.          |
 
 ### 5. **Netflix**
 | **Segmentation Type**   | **Strategy**                                                                                                                                           | **Result**                                                       |

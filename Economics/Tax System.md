@@ -1,6 +1,6 @@
 
 * **U.S. Taxation: The Big Picture**
-    * Taxes in the U.S. have significantly increased since Benjamin Franklin's time, now accounting for a substantial portion of the average American's income (up to a third). This is lower than many European countries but higher than some other nations.
+    * Taxes in the U.S. have significantly increased since Benjamin Franklin's time, now [[accounting]] for a substantial portion of the average American's income (up to a third). This is lower than many European countries but higher than some other nations.
     * The federal government collects the majority of taxes, with individual income tax being the largest revenue source.
     * Other significant federal taxes include payroll taxes (for Social Security and Medicare), corporate income taxes (taxing profits), and excise taxes (on specific goods).
     * Taiwan's income tax rates (as of 2024) are progressive, ranging from 5% to 40% based on income brackets.
@@ -10,11 +10,12 @@
         * The tax payment itself.
         * Deadweight losses (distortions of incentives).
         * Administrative burdens (compliance costs).
-    * Deadweight loss arises because taxes distort incentives, leading to a reduction in economic well-being exceeding the revenue collected.
+    * [[Deadweight Loss]] arises because taxes distort incentives, leading to a reduction in economic well-being exceeding the revenue collected.
     * Administrative burdens involve the time and money spent complying with tax laws.
     * Debate exists on whether income or consumption should be taxed, with consumption tax potentially reducing disincentives to save.
-    * Marginal tax rate (tax on an additional dollar of income) is crucial for understanding incentive distortions, while the average tax rate (total taxes/total income) reflects the overall tax burden.
-    * Lump-sum tax (fixed amount for everyone) is the most efficient as it has no deadweight loss and minimal administrative burden, but is generally considered unfair.
+    * **Marginal Tax Rate**: The rate you pay on your **next dollar of income**. It applies to the highest income bracket you fall into. It's useful for understanding how additional income will be taxed.
+	- **Average Tax Rate**: The **total tax you pay divided by your total income**. It reflects the overall percentage of your income that goes to taxes.
+    * Lump-sum tax (fixed amount for everyone) is the most efficient as it has no [[Deadweight Loss]] and minimal administrative burden, but is generally considered unfair.
 * **Taxes and Equity**
     * Tax equity concerns how the tax burden is distributed across the population.
     * The **benefits principle** suggests taxes should be based on the benefits received from government services (e.g., gasoline tax for roads).

@@ -1,6 +1,6 @@
 ## Introduction
 
-Economics is derived from the Greek word "oikonomos," meaning "one who manages a household." Both households and economies face decisions about allocating scarce resources. Economics studies how society manages its scarce resources through:
+Economics is derived from the Greek word "_oikonomos_," meaning "one who manages a household." Both households and economies face decisions about allocating scarce resources. Economics studies how society manages its scarce resources through:
 
 - How people make decisions
 - How people interact with one another
@@ -18,13 +18,13 @@ Economics is derived from the Greek word "oikonomos," meaning "one who manages a
 2. **The Cost of Something Is What You Give Up to Get It**
     
     - Decisions require comparing costs and benefits of alternatives
-    - The opportunity cost of an item is what you give up to get that item
+    - The [[Opportunity Cost]] of an item is what you give up to get that item
     - Example: Cost of college includes not just tuition but time (which could be spent working)
 3. **Rational People Think at the Margin**
     
     - Rational people systematically do the best they can to achieve objectives
     - Marginal changes are small, incremental adjustments to existing plans
-    - Decisions are made by comparing marginal costs and marginal benefits
+    - Decisions are made by comparing [[Marginal Costs]] and marginal benefits
     - Examples:
         - Average vs. marginal cost of flying a passenger
         - Why water is cheap despite being essential (plentiful supply means low marginal benefit)

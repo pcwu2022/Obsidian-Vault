@@ -8,7 +8,7 @@ JTBD (Jobs to Be Done) is a framework that focuses on understanding customer nee
 
 ## Example
 
-When Apple announced record sales of $54.5 billion, critics were still unimpressed, questioning if innovation had peaked since [[Steve Jobs]]. Many pointed to the iPhone 5, noting it wasn’t a drastic departure from previous models.
+When [[Apple]] announced record sales of $54.5 billion, critics were still unimpressed, questioning if innovation had peaked since [[Steve Jobs]]. Many pointed to the iPhone 5, noting it wasn’t a drastic departure from previous models.
 
 - Users “hire” Apple products to streamline their digital lives with sleek, reliable devices.
 - They want cutting-edge tech that’s easy to use.

@@ -9,7 +9,7 @@ The White Label business model involves a product or service produced by one com
 
 1. **Rebranding**: Resellers market the product under their own brand, often with customization options.
 2. **Low Entry Barrier**: Resellers can skip product development and focus on marketing and sales.
-3. **Scalability for Producers**: Producers benefit from economies of scale by selling the same product to multiple businesses.
+3. **Scalability for Producers**: Producers benefit from [[Economies of Scale]] by selling the same product to multiple businesses.
 4. **Anonymity**: Producers often remain invisible to end customers, enhancing the reseller's brand presence.
 
 ---

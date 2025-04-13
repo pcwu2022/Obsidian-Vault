@@ -1,6 +1,6 @@
 Porter’s Five Forces is a framework for ==analyzing the competitive forces that shape an industry==. 
 
-1. **Threat of New Entrants**: The ease or difficulty with which new competitors can enter the industry and challenge established companies. Factors like capital requirements, [[Brand]] loyalty, and economies of scale influence this force.
+1. **Threat of New Entrants**: The ease or difficulty with which new competitors can enter the industry and challenge established companies. Factors like capital requirements, [[Brand]] loyalty, and [[Economies of Scale]] influence this force.
    
 2. **Bargaining Power of Suppliers**: The power suppliers have in influencing the price of inputs. If there are few suppliers or if they offer unique products, they can charge higher prices and influence the industry’s cost structure.
    
@@ -14,7 +14,7 @@ Porter’s Five Forces is a framework for ==analyzing the competitive forces tha
 
 1. **Threat of New Entrants**:
     
-    - **Low**: The smartphone industry has high entry barriers, including significant capital investment, established brand loyalty, and technological expertise. Companies like Apple and Samsung dominate the market, making it difficult for new entrants to compete.
+    - **Low**: The smartphone industry has high entry barriers, including significant capital investment, established brand loyalty, and technological expertise. Companies like [[Apple]] and Samsung dominate the market, making it difficult for new entrants to compete.
 2. **Bargaining Power of Suppliers**:
     
     - **Medium**: While there are many suppliers of smartphone components (e.g., chips, screens, batteries), key suppliers like Qualcomm and TSMC hold significant power due to their specialized products and limited competition. However, the large scale of smartphone companies can give them negotiating power.

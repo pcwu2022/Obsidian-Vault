@@ -12,5 +12,5 @@
 - **The Importance of Property Rights:**
     
     - Market failure can occur when property rights are not well-established, meaning no one has the legal authority to control a valuable item.
-    - The absence of property rights can lead to the overuse of common resources (as seen in the historical example of deer hunting in Dutch colonial Taiwan).
+    - The absence of property rights can lead to the overuse of [[common resources]] (as seen in the historical example of deer hunting in Dutch colonial Taiwan).
     - Government intervention can potentially solve market failures arising from poorly defined property rights.

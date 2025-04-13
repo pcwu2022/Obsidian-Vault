@@ -32,7 +32,7 @@ The User Community business model involves creating a platform or service that f
 
 1. **Reddit**: A vast collection of communities (subreddits) where users share content, discuss topics, and provide support.
 2. **Stack Overflow**: A community where developers ask questions, share knowledge, and help solve coding problems.
-3. **Apple**: The Apple Support Community allows users to exchange tips and troubleshooting solutions, reducing the load on official support channels.
+3. **[[Apple]]**: The Apple Support Community allows users to exchange tips and troubleshooting solutions, reducing the load on official support channels.
 4. **Patreon**: Content creators build communities around their work, where fans can directly support them in exchange for exclusive content and engagement.
 
 ---

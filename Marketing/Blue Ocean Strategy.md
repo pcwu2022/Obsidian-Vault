@@ -30,7 +30,7 @@
    - Instead of competing with traditional circuses, Cirque du Soleil created a new form of entertainment that combined circus acts with theater, dance, and acrobatics. They targeted an upscale audience who was looking for more than just traditional circus performances, opening up an entirely new market.
 
 2. **Apple’s iTunes**:
-   - Before iTunes, the music industry was heavily dominated by physical albums and illegal file-sharing. Apple created a new market by offering legal digital music downloads, which appealed to consumers looking for a more convenient, affordable way to purchase music.
+   - Before iTunes, the music industry was heavily dominated by physical albums and illegal file-sharing. [[Apple]] created a new market by offering legal digital music downloads, which appealed to consumers looking for a more convenient, affordable way to purchase music.
 
 3. **Uber**:
    - [[Uber]] didn't just compete with traditional taxi services. Instead, it created a new market by introducing a convenient, app-based, on-demand transportation service, making it easier for riders and drivers to connect.

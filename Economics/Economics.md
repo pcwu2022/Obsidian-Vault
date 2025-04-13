@@ -1,0 +1,23 @@
+- **[[Ten Principles of Economics]]**: This chapter introduces the fundamental ideas that underpin economic thinking, providing a framework for understanding how people make decisions, how they interact, and how the economy as a whole works.
+- **[[Thinking Like an Economist]]**: This chapter explores the economist's approach to problem-solving, emphasizing the use of models, assumptions, and the scientific method to analyze economic issues.
+- **[[Gains From Trade|Gains from Trade]]**: This chapter explains how specialization and trade can make everyone better off by allowing individuals and countries to focus on what they do best.
+- **[[Supply and Demand]]**: This chapter introduces the basic model of supply and demand, which is crucial for understanding how markets determine prices and quantities of goods and services.
+- **[[Elasticity]]**: This chapter examines the responsiveness of quantity demanded or quantity supplied to changes in price and other determinants, providing insights into how markets react to different conditions.
+- **[[Supply, Demand, and Government Policies]]**: This chapter analyzes the effects of government interventions in markets, such as price controls and taxes, and their impact on market outcomes.
+- **[[Market Efficiency|Consumers, Producers, and the Efficiency of Markets]]**: This chapter explores the concepts of consumer and producer surplus and how they can be used to evaluate the efficiency of market outcomes.
+- **[[The Cost of Taxation]]**: This chapter examines how taxes affect consumers, producers, and the overall efficiency of markets, including the concepts of [[Deadweight Loss]].
+- **[[International Trade]]**: This chapter analyzes the benefits and costs of international trade, including the arguments for and against trade restrictions.
+- **[[Externalities]]**: This chapter discusses situations where the actions of one person or firm affect the well-being of a bystander who is not compensated or does not pay for the effect, and explores potential government solutions.
+- **[[Public Goods and Common Resources]]**: This chapter examines goods that are non-rivalrous and non-excludable, and the challenges of providing them efficiently through private markets.
+- **[[Economics of Healthcare]]**: This chapter applies economic principles to the healthcare industry, analyzing issues such as market failures, insurance, and government intervention.
+- **[[Tax System|The Design of the Tax System]]**: This chapter explores the principles of tax design, including efficiency and equity, and examines different types of tax systems.
+- **The Costs of Production**: This chapter analyzes the various costs that firms face in producing goods and services, distinguishing between fixed and variable costs, and short-run and long-run costs.
+- **Competitive Markets**: This chapter examines the behavior of firms in perfectly competitive markets, where many firms sell identical products and no single firm has market power.
+- **Monopoly**: This chapter analyzes the behavior of firms that are the sole sellers in a market, and the implications for pricing, output, and social welfare.
+- **Monopolistic Competition**: This chapter explores markets where many firms sell differentiated products, combining elements of competition and monopoly.
+- **Oligopoly**: This chapter examines markets with only a few sellers, where the strategic interactions between firms are crucial.
+- **The Factors of Production**: This chapter analyzes the markets for the factors of production, such as labor, capital, and land, and how their prices are determined.
+- **Earnings and Discrimination**: This chapter explores the determinants of wages and the economic impact of discrimination in labor markets.
+- **Income Inequality and Poverty**: This chapter examines the distribution of income in society and the causes and consequences of poverty.
+- **The Theory of Consumer Choice**: This chapter delves deeper into how consumers make decisions, using concepts like budget constraints and indifference curves to understand demand.
+- **Frontiers of Microeconomics**: This chapter introduces advanced topics in microeconomics, potentially including behavioral economics, information economics, and political economy.

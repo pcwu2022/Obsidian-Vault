@@ -36,7 +36,7 @@ Platform as a Service (PaaS) provides a cloud-based environment where developers
 
 1. **Technology Giants**:
     
-    - _Microsoft Azure App Service_: Provides tools for building and hosting web applications, APIs, and mobile backends.
+    - _[[Microsoft]] Azure App Service_: Provides tools for building and hosting web applications, APIs, and mobile backends.
     - _Google Cloud Platform (App Engine)_: Offers a fully managed environment for developing and deploying applications.
 2. **Open-Source Options**:
     

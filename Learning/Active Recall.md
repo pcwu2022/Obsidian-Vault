@@ -65,7 +65,7 @@
 	- [Full article: Metacognitive strategies in student learning: Do students practise retrieval when they study on their own? (tandfonline.com)](https://www.tandfonline.com/doi/full/10.1080/09658210802647009)
 	- [College Students' Choices of Study Strategies - L. Mark Carrier, 2003 (sagepub.com)](https://journals.sagepub.com/doi/abs/10.2466/pms.2003.96.1.54)
 - Active Recall Metacognition
-	- [Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology - John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham, 2013 (sagepub.com)](https://journals.sagepub.com/doi/full/10.1177/1529100612453266)
+	- [Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational [[Psychology]] - John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham, 2013 (sagepub.com)](https://journals.sagepub.com/doi/full/10.1177/1529100612453266)
 		- https://doi.org/10.2307/4446168
 		- 
 	- [Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping | Science](https://www.science.org/doi/full/10.1126/science.1199327)

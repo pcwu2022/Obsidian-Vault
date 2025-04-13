@@ -1,5 +1,5 @@
 
-- **Elasticity:** Measures the responsiveness of buyers and sellers to changes in market conditions, allowing for precise analysis of [[supply and demand]].
+- **Elasticity:** Measures the responsiveness of buyers and sellers to changes in [[market]] conditions, allowing for precise analysis of [[supply and demand]].
     
 - **Price Elasticity of Demand:**
     
@@ -25,14 +25,14 @@
         - Unit elastic demand: TR remains constant with price changes.
 - **Other Demand Elasticities:**
     
-    - **Income Elasticity of Demand:** Measures how quantity demanded changes with consumer income: % change in income% change in quantity demanded​.
+    - **Income Elasticity of Demand:** Measures how quantity demanded changes with consumer income: % change in income / % change in quantity demanded​.
         - Normal goods (positive elasticity) vs. Inferior goods (negative elasticity).
         - Necessities (small elasticity) vs. Luxuries (large elasticity).
-    - **Cross-Price Elasticity of Demand:** Measures how quantity demanded of one good changes with the price of another good: % change in price of good 2% change in quantity demanded of good 1​.
+    - **Cross-Price Elasticity of Demand:** Measures how quantity demanded of one good changes with the price of another good: % change in price of good 2% change in quantity demanded of good​.
         - Substitutes (positive elasticity) vs. Complements (negative elasticity).
 - **Elasticity of Supply:**
     
-    - Definition: Measures how much the quantity supplied of a good responds to a change in the price of that good: % change in price% change in quantity supplied​.
+    - Definition: Measures how much the quantity supplied of a good responds to a change in the price of that good: % change in price / % change in quantity supplied​.
     - Determinants:
         - Flexibility of sellers to change production (more flexible ⟹ more elastic).
         - Time period (longer ⟹ more elastic).

@@ -3,7 +3,7 @@
 - Awarded the Congressional Medal of Honor for actions on September 8, 2009.
 - Rescued wounded soldiers and recovered the dead under live fire.
 - GoPro footage captured him placing a wounded soldier in a medevac, then giving him a kiss before returning to battle.
-- Highlights deep emotion, [[Trust]], and selflessness in military [[culture]].
+- Highlights deep emotion, [[Trust]], and selflessness in military [[Culture]].
 
 #### Trust & Cooperation in Leadership
 

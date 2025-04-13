@@ -12,9 +12,9 @@ To change the direction of the organization, change the leader.
 
 > 90% of the visitors that would not come back is because of the experience with the employees of the organization. [[CRM]] [[行銷金字塔]] [[Customer]]
 ### Examples of failing
-- [[McDonald Brothers]]
+- [[McDonald's|McDonald Brothers]]
 - [[Gerry Faust]]
-- [[Steve Wozniak]]
+- [[Apple|Steve Wozniak]]
 
 ### Example of success
 - [[Ray Kroc]]

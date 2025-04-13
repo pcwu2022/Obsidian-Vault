@@ -33,7 +33,7 @@ The razor-and-blades business model involves selling a product at a low price, o
 1. **Gillette**: Sells razors at a low price, but profits primarily come from the sale of replacement razor blades.
 2. **HP**: Offers printers at affordable prices but generates significant revenue through the sale of printer ink cartridges.
 3. **Nespresso**: Sells coffee machines at low prices and profits from selling branded coffee pods, which customers need to continue using the machines.
-4. **Apple**: Offers low-cost entry-level devices like iPhones but generates ongoing revenue from app purchases, subscriptions, and accessories.
+4. **[[Apple]]**: Offers low-cost entry-level devices like iPhones but generates ongoing revenue from app purchases, subscriptions, and accessories.
 
 ---
 

@@ -3,7 +3,7 @@
     2. 研究內容包含正式的學校課程學習、在家學習、工作上的學習、同伴間的學習等
     3. 相關的科學
         1. [[認知科學]] Cognitive Science
-        2. 教育心理學 Educational Psychology
+        2. 教育心理學 Educational [[Psychology]]
         3. 電腦科學 Computer Science
         4. 人類學 Anthropology
         5. 社會學 Sociology

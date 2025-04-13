@@ -16,7 +16,7 @@ Most organizations and people communicate **from the outside in**—starting wit
 ### Why It Matters
 
 1. **Inspiration Over Transaction**: Starting with "Why" appeals to emotions and shared values, creating a deeper, more meaningful connection than just promoting features or products.
-    - Example: People buy Apple products not just for their features but because they resonate with Apple's "Why": challenging the status quo and thinking differently.
+    - Example: People buy [[Apple]] products not just for their features but because they resonate with Apple's "Why": challenging the status quo and thinking differently.
 2. **Motivation and Loyalty**: Employees, customers, and partners are more likely to remain committed when they feel aligned with a shared purpose or belief.
 3. **Decision-Making**: A clear "Why" provides a guiding principle, making it easier to make consistent and purpose-driven decisions.
     

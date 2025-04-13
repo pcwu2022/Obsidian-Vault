@@ -23,13 +23,13 @@
     - Households: Own factors of production (revenue) and consume goods/services (spending)
     - Two markets: Goods and services market, and factors of production market
     - Simplifies complex relationships but captures essential economic interactions
-2. **Production Possibilities Frontier (PPF)**
+2. **[[PPF|Production Possibilities Frontier (PPF)]]**
     
     - Graph showing possible combinations of outputs given available resources
     - Illustrates key economic concepts:
-        - **Efficiency**: Points on the PPF are efficient (getting maximum output from resources)
+        - **Efficiency**: Points on the [[PPF]] are efficient (getting maximum output from resources)
         - **Trade-offs**: Moving along the PPF requires giving up one good to produce more of another
-        - **Opportunity Cost**: The PPF's slope shows how much of one good must be sacrificed
+        - **[[Opportunity Cost]]**: The PPF's slope shows how much of one good must be sacrificed
         - **Economic Growth**: Shown by an outward shift of the entire PPF
 
 ### Microeconomics vs. Macroeconomics

@@ -14,5 +14,5 @@
     - **Charities:** Support activities with positive externalities.
     - **Integrating Businesses:** Internalizes externalities within a single entity.
     - **Contracts:** Agreements between parties to address externalities.
-- **Coase Theorem:** If private parties can bargain without cost, they can always reach an efficient solution to externalities, regardless of the initial allocation of rights.
+- **[[Coase Theorem]]:** If private parties can bargain without cost, they can always reach an efficient solution to externalities, regardless of the initial allocation of rights.
 - **Transaction Costs:** Costs of reaching and enforcing an agreement can hinder private solutions. Bargaining can also fail due to holdouts or coordination problems with many parties.

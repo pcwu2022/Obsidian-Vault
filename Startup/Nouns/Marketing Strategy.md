@@ -148,7 +148,7 @@ To build on this strategy:
     
 - **Develop a referral program** with clear incentives and easy sharing mechanisms.
     
-- **Invest in brand [[storytelling]]** – showcase real customer stories to drive relatability.
+- **Invest in brand [[Storytelling]]** – showcase real customer stories to drive relatability.
     
 
 Would you like this formatted into a presentation, one-pager, or action plan?

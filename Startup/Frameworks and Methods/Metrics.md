@@ -27,7 +27,7 @@
 
 7. **Net Promoter Score ([[NPS]])**
    - **Definition**: Measures customer loyalty and willingness to recommend a product to others.
-   - **Usages**: **Apple** uses NPS to gauge customer loyalty and satisfaction. They frequently achieve high NPS scores, which reflect strong brand loyalty and help Apple prioritize new features or services based on user feedback.
+   - **Usages**: **[[Apple]]** uses NPS to gauge customer loyalty and satisfaction. They frequently achieve high NPS scores, which reflect strong brand loyalty and help Apple prioritize new features or services based on user feedback.
 
 8. **[[Churn]] Rate**
    - **Definition**: The percentage of customers who stop using a product or service over a specific period.

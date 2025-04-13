@@ -7,7 +7,7 @@ Cost leadership is a business model where a company aims to become the lowest-co
 
 **Key Features**
 
-1. **Economies of Scale**: Large production volumes reduce per-unit costs, allowing businesses to offer lower prices.
+1. **[[Economies of Scale]]**: Large production volumes reduce per-unit costs, allowing businesses to offer lower prices.
 2. **Efficient Operations**: Focus on cost-cutting in areas like production, distribution, and marketing.
 3. **Standardized Products**: Products or services may be standardized to reduce complexity and costs.
 
@@ -32,7 +32,7 @@ Cost leadership is a business model where a company aims to become the lowest-co
 
 1. **Walmart**: Walmart uses economies of scale, efficient supply chains, and a large network of stores to offer low prices across a wide range of products.
 2. **Ryanair**: The airline keeps costs low by charging for extras, using secondary airports, and maintaining a no-frills service.
-3. **McDonald's**: McDonald's focuses on efficiency in operations and supply chain management to offer affordable fast food globally.
+3. **[[McDonald's]]**: [[McDonald's]] focuses on efficiency in operations and supply chain management to offer affordable fast food globally.
 4. **IKEA**: IKEA’s flat-pack furniture and efficient production processes enable it to sell stylish furniture at lower prices.
 
 ---

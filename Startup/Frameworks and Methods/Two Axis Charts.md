@@ -117,7 +117,7 @@
 
 |                     | High Simplicity | Low Simplicity |  
 |---------------------|-----------------|----------------|
-| High Functionality  | Apple Products   | Complex Systems|  
+| High Functionality  | [[Apple]] Products   | Complex Systems|  
 | Low Functionality   | Basic Tools      | Confusing Designs|
 ### 20. Employee Satisfaction vs. Productivity
 

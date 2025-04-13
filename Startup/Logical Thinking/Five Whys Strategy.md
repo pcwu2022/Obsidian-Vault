@@ -1,4 +1,4 @@
-[[豐田生產方式]] TPS, Toyota Production System
+[[Toyota Production System]] TPS
 侷限：
 1. 受到私心侷限：沒有人可以叫醒裝睡的人
 2. 無法超越現有的知識水準

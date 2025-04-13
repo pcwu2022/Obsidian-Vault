@@ -26,7 +26,7 @@ The UVP is critical because it captures the essence of why customers should choo
 ### Example UVPs
 
 1. **Uber**: *The Smartest Way to Get Around*
-2. **Apple iPhone**: *The Experience IS the Product*
+2. **[[Apple]] iPhone**: *The Experience IS the Product*
 3. **Unbounce**: *A/B Testing Without Tech Headaches*
 4. **Slack**: *Be More Productive at Work with Less Effort*
 5. **Digit**: *Save Money Without Thinking About It*

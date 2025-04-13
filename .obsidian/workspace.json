@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "91467a4cc7fe0140",
+        "id": "a6c2cd4616006971",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b45b79765af709",
+            "id": "cd376f45e13512c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Economics of Healthcare.md",
+                "file": "Marketing/Needs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Economics of Healthcare"
+              "title": "Needs"
+            }
+          },
+          {
+            "id": "cd8eedeaa67ecaa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/Market.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Market"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proposal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Economics of Healthcare.md",
+                "file": "Marketing/Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Economics of Healthcare"
+              "title": "Backlinks for Market"
             }
           },
           {
@@ -113,44 +128,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Economics of Healthcare.md",
+                "file": "Marketing/Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Economics of Healthcare"
-            }
-          },
-          {
-            "id": "55dd58d7ca2f94e8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "2d74d873f6672cf1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Startup/Nouns/Value Proposition.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Value Proposition"
+              "title": "Outgoing links from Market"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,57 +150,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "e8b45b79765af709",
+  "active": "cd8eedeaa67ecaa7",
   "lastOpenFiles": [
-    "Economics/Thinking Like an Economist.md",
-    "Economics/The Cost of Taxation.md",
-    "Economics/Ten Principles of Economics.md",
-    "Economics/Tax System.md",
-    "Economics/Supply, Demand, and Government Policies.md",
-    "Economics/Supply and Demand.md",
-    "Economics/Public Goods and Common Resources.md",
-    "Economics/Market Efficiency.md",
-    "Economics/International Trade.md",
-    "Economics/Interdependence.md",
-    "Economics/Externalities.md",
-    "Economics/Elasticity.md",
-    "Economics/Economics of Healthcare.md",
-    "Common Resources.md",
-    "Public Goods.md",
-    "Surplus.md",
     "Marketing/Marketing.md",
-    "Law",
-    "Accounting/Accounting.md",
-    "Law/Business Law (USA).md",
-    "Law/Business Law (Taiwan).md",
-    "Accounting",
-    "Communications Ch.2.md",
-    "Startup/Lectures/租寓 - 行銷策略.md",
-    "Startup/Lectures/iCHEF 創業分享.md",
+    "Marketing/Needs.md",
+    "Startup/Lectures/Uspace 創業經驗分享.md",
+    "History/Why humans rule the world.md",
+    "Startup/Nouns/Learning Curve Effects.md",
+    "Startup/Case Studies/History of the Computer Industry.md",
+    "Startup/Nouns/Economies of Scale.md",
+    "Leadership/Toyota Production System.md",
+    "Books/Laws of leadership/21 irrefutable laws of leadership.md",
+    "Economics/Nouns/Marginal Costs.md",
+    "business strategy.md",
     "Startup/Frameworks and Methods/Porter’s Five Forces.md",
-    "Startup/Lectures/趙式隆局長：營運計畫與簡報技巧.md",
-    "Startup/Nouns/平台.md",
+    "Startup/Business Models/Cost Leadership.md",
+    "Books/Hamilton Seven Powers.md",
+    "Books/Laws of leadership/Influence.md",
+    "Startup/Logical Thinking/Five Whys Strategy.md",
+    "Leadership/職能.md",
+    "Leadership/職場競爭力解析.md",
+    "Leadership/經理人的必知理論.md",
+    "Leadership/成功的團隊組成.md",
+    "Leadership/成功有關的特徵.md",
+    "Leadership/全人管理.md",
+    "Leadership/公司治理.md",
+    "Leadership/企業文化.md",
+    "Leadership/人際能力.md",
+    "Leadership/五大職能.md",
+    "Communication/Speech/Pasted image 20240928212641.png",
+    "Communication/Speech/Know your audience.png",
+    "Communication/Pitch",
+    "Psychology/Nouns",
+    "Communication/Pitch/Airbnb Pitch Deck.png",
+    "Communication/Pitch/Uber Pitch Deck.png",
+    "Leadership/Case Studies",
+    "Economics/Nouns/PPF.png",
+    "Economics/Nouns/Laffer Curve.png",
+    "Pasted image 20250410213908.png",
+    "Economics/Nouns",
+    "Law",
+    "Accounting",
     "Economics",
     "Startup/Lectures/Startup Transition Curve.jpg",
     "Startup/Lectures/CHOCO TV 的差異化 TA.jpg",
     "Startup/Frameworks and Methods/Competitive Analysis.png",
     "Startup/Lectures/Landed",
-    "Startup/Nouns/Value Proposition.png",
-    "Communication/Presentation and Speech/Pasted image 20240928212641.png",
-    "Communication/Presentation and Speech/Know your audience.png",
     "Communication",
     "Books/Atomic Habits",
-    "Books/Lean Startup",
-    "Startup/Case Studies/Uber Pitch Deck.png",
-    "Startup/Case Studies/Airbnb Pitch Deck.png",
-    "Startup/Frameworks and Methods/VRIO Case Study.png",
-    "Startup/Frameworks and Methods/Lean Canvas.png",
-    "Startup/Business Models",
-    "Startup/Project Management/PM Tools",
-    "Books/Surrounded by Idiots",
     "Untitled.canvas"
   ]
 }

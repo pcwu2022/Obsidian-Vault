@@ -68,7 +68,7 @@ Here’s a more expansive list of values that companies consider important. 
 
 ## Five world-leading examples of company values
 
-Google (Alphabet), Apple, and Patagonia and Unilever  each define their core company values in unique ways that reflect their organizational goals and culture. Here’s a brief overview of how these companies describe their core values:
+Google (Alphabet), [[Apple]], and Patagonia and Unilever  each define their core company values in unique ways that reflect their organizational goals and culture. Here’s a brief overview of how these companies describe their core values:
 
 ### Google (Alphabet):
 
@@ -79,7 +79,7 @@ Google (now a subsidiary of Alphabet Inc.) focuses on three primary company valu
 3. **Respect each other:** Google fosters a culture of collaboration, open communication, and support among team members, regardless of their position or background.
 ### Apple:
 
-Apple’s company values are centered around six main principles:
+[[Apple]]’s company values are centered around six main principles:
 
 1. **Accessibility:** Apple designs products to be usable by as many people as possible, including those with disabilities.
 2. **Education:** The company supports and invests in educational programs to empower learners and educators with technology.

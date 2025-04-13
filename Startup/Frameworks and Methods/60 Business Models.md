@@ -17,8 +17,8 @@
 
 ### 1. Product-based models
    - [[Product-as-a-Service]] (PaaS): Selling access to products (leasing cars instead of selling).
-   - Direct Selling: Manufacturer sells directly to consumers (e.g., Apple stores).
-   - Product Bundling: Combining multiple products for a discounted price (e.g., McDonald's combo meals).
+   - Direct Selling: Manufacturer sells directly to consumers (e.g., [[Apple]] stores).
+   - Product Bundling: Combining multiple products for a discounted price (e.g., [[McDonald's]] combo meals).
    - [[Freemium]]: Free base product, paid premium features (e.g., Spotify).
    - Pay What You Want: Customers pay their own price (used by artists, non-profits).
    - Peer-to-Peer ([[P2P]]): Direct consumer interactions without intermediaries (e.g., Airbnb).
@@ -27,7 +27,7 @@
    - Time & Materials: Charge customers for time and resources (consultants, lawyers).
    - [[Subscription]]: Ongoing service access (Netflix, [[SaaS]] companies).
    - Licensing: Charging others for the right to use a product or intellectual property (e.g., patents, software licenses).
-   - Franchise: Offering businesses the right to operate under your [[Brand]] (e.g., McDonald's).
+   - Franchise: Offering businesses the right to operate under your [[Brand]] (e.g., [[McDonald's]]).
    - [[Aggregator]]: Curating services/products from multiple providers (e.g., Expedia, Amazon).
    - [[White Label]]: Selling a generic product under your own branding (supermarket own-brand products).
 
@@ -40,7 +40,7 @@
    - Ad-Supported: Offering free content/services, generating revenue from ads (e.g., YouTube).
 
 ### 4. Digital & Software-based models
-   - Software-as-a-Service ([[SaaS]]): Subscription-based software delivery (e.g., Salesforce, Microsoft 365).
+   - Software-as-a-Service ([[SaaS]]): Subscription-based software delivery (e.g., Salesforce, [[Microsoft]] 365).
    - [[Platform-as-a-Service]] (PaaS): Providing a platform for developers (e.g., AWS).
    - Infrastructure-as-a-Service (IaaS): Providing computing resources (e.g., Google Cloud, Azure).
    - API Licensing: Charging for API access (e.g., Twilio for communications).
@@ -73,7 +73,7 @@
 ### 9. Cost-based models
    - [[Cost Leadership]]: Offering lower prices than competitors (e.g., Walmart, IKEA).
    - [[Low-Touch]]: Minimizing customer interaction and reducing operational costs (e.g., Ryanair).
-   - Economies of Scale: Achieving cost savings through mass production (e.g., car manufacturing).
+   - [[Economies of Scale]]: Achieving cost savings through mass production (e.g., car manufacturing).
    - Freight on Board (FOB): Customer pays for shipping and risks (used in logistics, [[international trade]]).
 
 ### 10. Social & Sustainable models
