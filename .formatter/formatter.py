@@ -123,7 +123,6 @@ class ObsidianVaultFormatter:
     def _adjust_subtitle_levels(self, content):
         """Ensure subtitles start at h2 (## Subtitle)"""
         # Check if file has any h1 headings
-        """
         h1_pattern = r'^#\s+[^\n#]+'
         h1_headings = re.findall(h1_pattern, content, re.MULTILINE)
         
@@ -138,15 +137,15 @@ class ObsidianVaultFormatter:
                     self.stats['subtitle_levels_adjusted'] += count
         else:
             # If no h1, we need to convert h3+ to h2
-            # Fix the bug: properly convert h3+ to h2 without adding empty #
+            # Fix: Convert each heading pattern directly to h2 without adding empty h1
             for i in range(6, 2, -1):  # From h6 to h3
-                pattern = r'^' + ('#' * i) + r'\s+'
-                replacement = '## '  # Always replace with h2
+                pattern = r'^(' + ('#' * i) + r'\s+)(.+)$'  # Match full header with text
+                replacement = r'## \2'  # Replace with h2 and keep the header text
                 new_content, count = re.subn(pattern, replacement, content, flags=re.MULTILINE)
                 if count > 0:
                     content = new_content
                     self.stats['subtitle_levels_adjusted'] += count
-        """
+                        
         return content
     
     def _remove_emojis_from_subtitles(self, content):
