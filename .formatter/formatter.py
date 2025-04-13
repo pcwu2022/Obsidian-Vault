@@ -102,9 +102,16 @@ class ObsidianVaultFormatter:
     def _fix_subtitle_spacing(self, content):
         """Ensure one empty line before subtitles"""
         # First, make sure there's at least one newline before each subtitle
-        subtitle_pattern = r'([^\n])\n(#{2,}[\s]+)'
+        # Fix for handling h2 subtitles at the beginning of the file or right after content without newline
+        subtitle_pattern = r'([^\n])\n?(#{2,}[\s]+)'
         new_content, count = re.subn(subtitle_pattern, r'\1\n\n\2', content)
         self.stats['subtitle_spacing_fixed'] += count
+        
+        # Handle case where subtitle is at the very beginning of the file
+        if content.startswith('#'):
+            new_content = content
+        elif re.match(r'^#{2,}[\s]+', content):
+            new_content = content
         
         # Then, ensure there's exactly one empty line before subtitles
         multiple_newlines_pattern = r'\n{3,}(#{2,}[\s]+)'
@@ -128,7 +135,17 @@ class ObsidianVaultFormatter:
                 if count > 0:
                     content = new_content
                     self.stats['subtitle_levels_adjusted'] += count
-                    
+        else:
+            # If no h1, we need to convert h3+ to h2
+            # Fix the bug: properly convert h3+ to h2 without adding empty #
+            for i in range(6, 2, -1):  # From h6 to h3
+                pattern = r'^' + ('#' * i) + r'\s+'
+                replacement = '## '  # Always replace with h2
+                new_content, count = re.subn(pattern, replacement, content, flags=re.MULTILINE)
+                if count > 0:
+                    content = new_content
+                    self.stats['subtitle_levels_adjusted'] += count
+                        
         return content
     
     def _remove_emojis_from_subtitles(self, content):

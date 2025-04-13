@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Advertising Strategy.md",
+                "file": "Marketing/Customer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advertising Strategy"
+              "title": "Customer"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Advertising Strategy.md",
+                "file": "Marketing/Customer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Advertising Strategy"
+              "title": "Outgoing links from Customer"
             }
           }
         ],
@@ -156,32 +156,32 @@
   },
   "active": "cd8eedeaa67ecaa7",
   "lastOpenFiles": [
+    "Marketing/行銷金字塔.md",
+    "Marketing/市場需求洞察與應用.md",
+    "Marketing/三需要理論.md",
+    "Marketing/Verbal Brand.md",
+    "Marketing/Target Audience.md",
+    "Marketing/關係行銷.md",
+    "Marketing/Surveying Market.md",
+    "Marketing/Struggle to go Viral.md",
+    "Marketing/Segmentation.md",
+    "Marketing/Product Market Fit.md",
+    "Marketing/Perceptual Map.md",
+    "Marketing/First Impression.md",
+    "Marketing/GUEST.md",
+    "Marketing/Customer.md",
     "Marketing/CRM.md",
     "Marketing/Content Marketing.md",
     "Marketing/Consumer Behavior.md",
     "Marketing/Channels.md",
     "Marketing/Call to Action.md",
     "Marketing/Brand.md",
-    "Marketing/Blue Ocean Strategy.md",
     "Marketing/Advertising Strategy.md",
+    "Marketing/Blue Ocean Strategy.md",
     "Startup/Startup.md",
     "Marketing/Market.md",
     "Marketing/Marketing.md",
     "Marketing/Needs.md",
-    "Startup/Lectures/Uspace 創業經驗分享.md",
-    "History/Why humans rule the world.md",
-    "Startup/Nouns/Learning Curve Effects.md",
-    "Startup/Case Studies/History of the Computer Industry.md",
-    "Startup/Nouns/Economies of Scale.md",
-    "Leadership/Toyota Production System.md",
-    "Books/Laws of leadership/21 irrefutable laws of leadership.md",
-    "Economics/Nouns/Marginal Costs.md",
-    "business strategy.md",
-    "Startup/Frameworks and Methods/Porter’s Five Forces.md",
-    "Startup/Business Models/Cost Leadership.md",
-    "Books/Hamilton Seven Powers.md",
-    "Books/Laws of leadership/Influence.md",
-    "Startup/Logical Thinking/Five Whys Strategy.md",
     "Communication/Speech/Pasted image 20240928212641.png",
     "Communication/Speech/Know your audience.png",
     "Communication/Pitch",
