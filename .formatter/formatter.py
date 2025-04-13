@@ -177,7 +177,16 @@ class ObsidianVaultFormatter:
             if subtitle_match:
                 prefix = subtitle_match.group(1)
                 subtitle_text = subtitle_match.group(2)
+                
+                # Fix: Only remove emojis, not the entire text
+                # And check if the cleaned text is empty
                 cleaned_text = emoji_pattern.sub('', subtitle_text).strip()
+                
+                # Keep original text if after cleaning it becomes empty
+                # This preserves Chinese text and other non-emoji content
+                if cleaned_text == "" and subtitle_text.strip() != "":
+                    cleaned_text = subtitle_text
+                
                 if cleaned_text != subtitle_text:
                     lines[i] = f"{prefix}{cleaned_text}"
                     modified = True
