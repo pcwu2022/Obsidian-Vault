@@ -1,108 +1,133 @@
 ### Cult
-- 建立邪教
-- Simon Sinek: Golden Circle
-- Focus on the why
+- Building a “cult-like” community
+- [[Start with WHY|Simon Sinek: Golden Circle]]
+- Focus on the *why*
 - [[4MAT - WWHI]]
-- Why
-	- 社團為什麼存在
-	- 想要達成什麼樣的影響力
+- **Why**
+	- Why does the club exist?
+	- What kind of impact do we want to make?
 		- [[Influence]]
-	- Focus on the why
-	- 最重要的是我們存在的價值，而不是我們的產品、我們的手段
-	- Vision
-- [[Culture]] Why is [[Culture]] important?
-	- Team engagement
-	- Club members are motivated and proud
-	- 大家會跟你一起成長
-	- 大家會延續下一代
-	- 文化是促成社團傳承的要素
-	- Autonomy
-		- 社團成員會自動化，大家很驕傲地完成自己的事情
-		- 社團成員有內在的動力 [[內在生命]]
-	- Core [[Values]] Examples
-		- 我們共同會加入這格社團是因為我們有共同的命
-		- 會遇到 conflict 但是我們知道大家都是善意的
-		- "你會生氣是因為我知道你是關心的"
-		- 沒有馬後砲文化
-		- 要溝通有效率才可以最大化我們的產出 -> 說話直接的文化
-	- Practices
-		- 透明化：每個討論大家都可以看到
-		- Practices 可以 go along with our core [[Values]]
+	- Focus on the *why* – everything begins with purpose.
+	- The most important thing is the value we bring, not just our products or methods.
+	- Vision gives direction and meaning; it's the north star that guides all actions and decisions.
+
+	> Example: Instead of “we host events,” say “we empower youth through meaningful learning experiences.”
+
+- [[Culture]] – Why is [[Culture]] important?
+	- Team engagement and long-term commitment
+	- Members are intrinsically motivated and proud of being part of the team
+	- People grow with you
+	- Legacy: people will pass down the culture and spirit to the next generation
+	- **Autonomy**
+		- Members operate autonomously with pride and ownership
+		- People act out of intrinsic motivation [[內在生命]]
+	- **Core [[Values]]** – Examples:
+		- Members join because they share a common mission and passion
+		- Conflict is natural, but we trust each other's intentions
+		- *“You’re angry because you care.”*
+		- No culture of blame or criticism after the fact
+		- Culture of direct and effective communication: maximize output by minimizing misunderstandings
+
+	> Example: A club member missing a task is not met with blame, but with a question—“Is there anything stopping you from completing this? Can I help?”
+
+	- **Practices**
+		- Radical transparency: all discussions and decisions are visible
+		- Practices should align with core [[Values]]
+		- Shared rituals reinforce the identity and [[values]] of the group
+
 ## How to build a highly productive team
-- Meetings are toxic
-	- [[開會]]
-	- 不開會文化
-	- What's the cost of an one hour meeting of 8 team members?
-	- 開會的效益？浪費資源？
-	- 簡訊會議取代開會，讓大家公開透明
-	- 把時間放在 Actually Doing Something
-- [[OKR]] + Mind Maps
-	- Objectives and key results
-	- Objective
-		- 目標
-	- Key results
-		- 可量化的結果
-		- 例如觸及率、多少人參加等
-	- System: Clickup
-		- 開 Ticket、Task
-	- 每天列出誰擋住我
-- [[ICE Framework]]
-	- Impact 
-		- 做什麼事情可以讓自己的效益最大化
-	- Confidence
-		- 執行這件事情的信心有多高
-	- Effort
-		- 花多少力氣可以做到這個 impact
-	- 我想做這件事情不是因為這件事情，而是因為有多少影響力、有多少信心、需要多少力氣才可以做到
-	- Blocker and incident
-		- Priority 突然跳到最高的事情
-			- 無法預測，卻相當重要的事情
+- **[[開會|Meetings]] are toxic**
+	- Promote a “no meeting” culture unless absolutely necessary
+	- Ask: What is the *true cost* of a one-hour meeting with 8 people? (Time = Money)
+	- Are meetings producing real results, or just consuming energy?
+	- Replace meetings with text-based updates (asynchronous, transparent, efficient)
+	- Spend time *Actually Doing Something* instead of just discussing
+
+	> Example: Use a group chat thread or shared doc for updates and blockers.
+
+- **[[OKR]] + Mind Maps**
+	- *Objectives and Key Results*
+		- **Objective** = clear, inspiring goal
+		- **Key Results** = measurable outcomes (e.g., number of participants, engagement rate)
+	- Use tools like ClickUp
+		- Create Tickets, assign Tasks
+	- Daily reflection: *Who is blocking my progress today?*
+
+- **[[ICE Framework]]**
+	- Evaluate tasks based on:
+		- **Impact** – How much value will this create?
+		- **Confidence** – How sure are we it will succeed?
+		- **Effort** – How much effort does it require?
+	- Prioritize tasks not by urgency, but by **value-effort-confidence tradeoff**
+	- Blockers and incidents
+		- Some tasks or events jump to the top of the priority list unexpectedly
+		- These must be acknowledged and addressed, even if they weren’t in the original plan
+
+	> Example: A member crisis or PR issue may need immediate attention, even if it wasn't on your to-do list.
+
 ## How to Communicate
 
-- Understand your why
-	- 記得做這件事情的初衷
-- Empathy
-	- 為甚麼這個人要做這一件事情
-	- 當你同理他的時候對方會感謝你
-- Ownership
-	- 你有辦法對大家負責，會讓你成為一個很好的 leader
-	- 自己有辦法 take on ownership 才可以當一個好的 leader
-	- 使用 "我" 這個字
+- **Understand your why**
+	- Always stay connected to your original intent and purpose
+
+- **Empathy**
+	- Understand the motivations behind others’ actions
+	- When you show empathy, others feel seen, heard, and respected
+
+	> Example: Ask “What’s going on in their world?” before reacting harshly.
+
+- **Ownership**
+	- A good leader takes responsibility—not just for results, but for people
+	- Take initiative, say “I will take care of it”
+	- Use “I” statements to show accountability
 	- [[Peter Drucker’s management strategies]]
-- [[Trust]]
-	- 創造一個很安全被信任的環境
-	- 創造這種環境是需要很花心思的
-- 書本推薦
-	- Trillion Dollar Coach
+
+- **[[Trust]]**
+	- Create a psychologically safe and trustworthy environment
+	- It takes time, consistency, and intentional effort to build trust
+
+- **Recommended Books**
+	- *Trillion Dollar Coach*
 	- [[How to win friends and influence people]]
 	- [[Start with WHY]]
-- 如何預期辦理 project 的效益
-	- 用 ICE 的信心度
-	- 可能可以看別人做這件事情的成功率
-	- 找 Secondary data 讓自己可以知道
-- 如何找 [[Target Audience]]
-	- 誰會來、可能會來，就是找他
-	- 直接去問最快
-	- [[Customer]] Personnel 顧客的 profile
-		- 典型 TA 的樣貌
-- 同時有很多事情的時候該怎麼 Motivate 大家
-	- 社團成員沒有薪水，但不一定會投入？
-	- 沒有金錢的誘因的時候還可以凝聚
-	- 要怎麼有動力可以做下去
-		- 想要得到什麼？
-		- 有沒有辦法用未來驅動社員
-		- 我會做這件事情是因為我可以看的到我可以影響到這麼多人的生命
-		- 當初為什麼會加入這個社團？
-	- 人不一定會是靠薪水驅動的
-- 對上位者溝通的技巧
-	- 理解對方在乎的東西
-	- 先進行一些 test 試探
-	- 用他想要的跟他溝通
-- 身為一個領導者，有時候會需要做一個討厭的決定
-	- 如果成員有熱情但是沒有能力的時候，必須讓他走
-- 當團隊很艱難的時候
-	- 可以給予團隊鼓勵
-	- 可以設定小目標，讓團隊不會在茫茫大霧裡面迷失方向
+
+- **How to forecast the impact of a project**
+	- Use the *Confidence* factor in the [[ICE Framework]]
+	- Analyze others’ similar projects for success rate
+	- Find secondary data to improve forecasting accuracy
+
+- **How to identify your [[Target Audience]]**
+	- Think: Who *would* or *might* come? Reach out to them directly.
+	- Asking directly is often the fastest path to clarity
+	- [[Customer]] [[Persona]]
+		- Develop a profile of your typical TA (Target Audience)
+		- Consider their needs, values, and behavior patterns
+
+- **How to motivate a team with limited resources**
+	- Club members may not have financial incentives—but passion and purpose still matter
+	- Motivation without money is possible with:
+		- Clear impact
+		- Future vision and purpose
+		- Personal growth and [[influence]] on others’ lives
+
+	> Example: “I do this because I see how it changes people. That’s worth more than money.”
+
+- **Communicating with superiors**
+	- Understand what they care about
+	- Test waters with small experiments
+	- Frame your message in terms they value
+
+	> Tip: Speak their language. Use their goals to anchor your [[pitch]].
+
+- **As a leader, sometimes you must make tough decisions**
+	- Passion without ability is not enough—you may need to let someone go for the team’s good
+	- Compassion + Clarity = Fairness
+
+- **When the team faces difficult times**
+	- Encourage the team, acknowledge struggles
+	- Set small, achievable goals to avoid feeling lost
 		- [[The Law of Navigation]]
-	- 有時候真的很艱難的時候有人會離開是很正常的
-	- 要繼續保持 hope 給予希望
+	- People leaving during hard times is normal—don’t take it personally
+	- Always maintain **hope** and be the one who lights the way
+
+	> Example: “Let’s just get through this week. One step at a time.”
